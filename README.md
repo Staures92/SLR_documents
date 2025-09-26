@@ -10,7 +10,7 @@ Plots: Visualizations created to illustrate key findings and trends from the inc
 The aim of this repository is to provide transparency and reproducibility in research by sharing both the data and analysis methods. Researchers and practitioners can use this repository to replicate the findings, explore the data, or build upon the analyses.
 
 ## Usage
-To run the code, ensure you have the necessary Python libraries installed. Refer to the \textit{requirements.txt} file for dependencies.
+To run the code, ensure you have the necessary Python libraries installed. Refer to the requirements.txt file for dependencies.
 
 
 Feel free to modify any part of this description to better fit your project and its specific details!
