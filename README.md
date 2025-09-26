@@ -40,5 +40,3 @@ python -m venv venv; on Windows: venv\Scripts\activate;  on Mac/Linux: source ve
 ## Usage
 To run the code, please make sure that you have the necessary Python libraries installed. Please take a look at the requirements.txt file for dependencies.
 
-
-Feel free to modify any part of this description to better fit your goal!
