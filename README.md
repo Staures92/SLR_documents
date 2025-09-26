@@ -38,7 +38,7 @@ This repository contains the complete data (raw search results from databases, s
 python -m venv venv; on Windows: venv\Scripts\activate;  on Mac/Linux: source venv/bin/activate
 
 ## Usage
-To run the code, ensure that you have the necessary Python libraries installed. Please take a look at the requirements.txt file for dependencies.
+To run the code, please make sure that you have the necessary Python libraries installed. Please take a look at the requirements.txt file for dependencies.
 
 
-Feel free to modify any part of this description to better fit your project and its specific details!
+Feel free to modify any part of this description to better fit your goal!
