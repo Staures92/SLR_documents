@@ -1,0 +1,2035 @@
+﻿TY  - JOUR
+AU  - Arasteh, MA
+AU  - Farjami, Y
+TI  - New hydro-economic system dynamics and agent-based modeling for sustainable urban groundwater management: A case study of Dehno, Yazd Province, Iran
+T2  - SUSTAINABLE CITIES AND SOCIETY
+LA  - English
+KW  - Hydro-economic model
+KW  - Drought
+KW  - System dynamics
+KW  - Agent-based modeling
+KW  - Water pricing
+KW  - Sustainable urban water management
+KW  - WATER
+KW  - SCARCITY
+AB  - Water scarcity invariably poses a threat to the sustainability of cities and rural areas with limited resources, especially in developing countries. This paper presents a new hydro-economic model based on system dynamics and agent-based simulation to enhance the sustainability of urban groundwater. Dynamic pricing was performed based on several parameters, such as resource conditions, price elasticity, consumption history and climate change, to improve the sustainability of groundwater and cover the costs of implementing strategies. Different scenarios based on pricing, rationing, culturalizing, and non-revenue water control strategies were applied in the village of Dehno in Yazd Province as the case study with an arid climate. The results showed that several scenarios can achieve the goal, but, in drought conditions, only a combination of all the strategies will work.
+AD  - Univ Qom, Dept Informat Technol, Qom, IranAD  - GIS Grp, Water & Wastewater Co, Yazd, IranC3  - University of QomPU  - ELSEVIER
+PI  - AMSTERDAM
+PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN  - 2210-6707
+SN  - 2210-6715
+J9  - SUSTAIN CITIES SOC
+JI  - Sust. Cities Soc.
+DA  - SEP
+PY  - 2021
+VL  - 72
+C7  - 103078
+DO  - 10.1016/j.scs.2021.103078
+C6  - JUN 2021
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000672607200002
+N1  - Times Cited in Web of Science Core Collection:  15
+Total Times Cited:  15
+Cited Reference Count:  41
+ER  -
+
+TY  - CPAPER
+AU  - Yang, ZN
+AU  - Neal, PD
+AU  - Abdollahian, M
+ED  - Duffy, VG
+TI  - When Feedback Loops Collide: A Complex Adaptive Systems Approach to Modeling Human and Nature Dynamics
+T2  - ADVANCES IN APPLIED DIGITAL HUMAN MODELING AND SIMULATION
+LA  - English
+CP  - International Conference on Digital Human Modeling and Simulation
+KW  - Sustainable development
+KW  - Complex adaptive systems
+KW  - Population dynamics
+KW  - Agent-based modeling
+KW  - System dynamics
+KW  - Game theory
+AB  - In the context of sustainable development, complex adaptive systems frameworks can help address the coupling of macro social, environmental and economic constraint and opportunity with individual agency. Using a simple evolutionary game approach, we fuse endogenously derived socio-economic system dynamics from human and nature dynamics (HANDY) theory with Prisoner's Dilemma spatial intra-societal economic transactions. We then create a new human and nature dynamics agent based model to explore technological progression on population dynamics, economic development, social inequality and use of resources. We investigate the impact of technology proliferation on communications ease and the resulting compression of social space on individual wealth and societal sustainability. Our initial result shows complex adaptive or evolutionary systems approaches are necessary to understand both near and potentially catastrophic, far-from-equilibrium behavior and societal outcomes across all scales of human behavior and dynamics.
+AD  - Claremont Grad Univ, Claremont, CA 91711 USAAD  - La Sierra Univ, Riverside, CA 92505 USAC3  - Claremont CollegesC3  - Claremont Graduate UniversityPU  - SPRINGER INTERNATIONAL PUBLISHING AG
+PI  - CHAM
+PA  - GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN  - 2194-5357
+SN  - 2194-5365
+SN  - 978-3-319-41627-4
+SN  - 978-3-319-41626-7
+J9  - ADV INTELL SYST
+PY  - 2017
+VL  - 481
+SP  - 317
+EP  - 327
+DO  - 10.1007/978-3-319-41627-4_28
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000390837100028
+N1  - Times Cited in Web of Science Core Collection:  3
+Total Times Cited:  4
+Cited Reference Count:  41
+ER  -
+
+TY  - JOUR
+AU  - Gonzalez-Redin, J
+AU  - Gordon, IJ
+AU  - Polhill, JG
+AU  - Dawson, TP
+AU  - Hill, R
+TI  - Navigating Sustainability: Revealing Hidden Forces in Social-Ecological Systems
+T2  - SUSTAINABILITY
+LA  - English
+KW  - sustainability
+KW  - social-ecological system
+KW  - natural capital
+KW  - ecosystem services
+KW  - biodiversity
+KW  - agent-based model
+KW  - ECOSYSTEM SERVICES
+KW  - CONSERVATION
+KW  - RESILIENCE
+KW  - DIMENSIONS
+KW  - GOVERNANCE
+KW  - RESOURCES
+KW  - FRAMEWORK
+KW  - FORESTS
+KW  - ECONOMY
+KW  - FUTURE
+AB  - During the 1992 Rio Conference, the sustainable development agenda envisioned a transformative change for the management of natural resources, where the well-being of human society would be enhanced through the sustainable use of natural capital. Several decades on, relentless economic growth persists at the expense of natural capital, as demonstrated by biodiversity decline, climate change and other environmental challenges. Why is this happening and what can be done about it? We present three agent-based models that explore the social, economic and governance factors driving (un)sustainability in complex social-ecological systems. Our modelling results reinforce the idea that the current economic system fails to safeguard the natural capital upon which it relies, leading to the prevailing decoupling between the economic and natural systems. In attempting to find solutions for such disjunction, our research shows that social-ecological systems are complex, dynamic and non-linear. Interestingly, results also reveal that there are common factors to most social-ecological systems that have the potential to improve or diminish sustainability: the role of financial entities and monetary debt; economic speculation; technological development and efficiency; long-term views, tipping point management and government interventions; and top-down and bottom-up conservation forces. These factors can play a dual role, as they can either undermine or enhance sustainability depending on their specific context and particular conditions. Therefore, the current economic system may not be inherently unsustainable, but rather specific economic mechanisms, decision-making processes and the complex links between economic and natural systems could be at the root of the problem. We argue that short- and medium-term sustainability can be achieved by implementing mechanisms that shift capitalist forces to support environmental conservation. Long-term sustainability, in contrast, requires a more profound paradigm shift: the full integration and accounting of externalities and natural capital into the economy.
+AD  - Finance Biodivers Fdn, Donostia San Sebastian 20014, SpainAD  - Australian Natl Univ, Fenner Sch Environm & Soc, Canberra, ACT 2601, AustraliaAD  - Cent Queensland Univ, Res Div, Townsville, Qld 4810, AustraliaAD  - Commonwealth Sci & Ind Res Org CSIRO, Environm, Cairns, Qld 4878, AustraliaAD  - James Hutton Inst, Informat & Computat Sci, Aberdeen AB15 8QH, ScotlandAD  - Kings Coll London, Dept Geog, London WC2B 4BG, EnglandAD  - James Cook Univ, Coll Sci & Engn, Cairns, Qld 4870, AustraliaC3  - Australian National UniversityC3  - Central Queensland UniversityC3  - Commonwealth Scientific & Industrial Research Organisation (CSIRO)C3  - James Hutton InstituteC3  - University of LondonC3  - King's College LondonC3  - James Cook UniversityFU  - James Hutton Institute (Aberdeen, UK); University of Dundee (UK)
+FX  - This work was supported by the James Hutton Institute (Aberdeen, UK), the University of Dundee (UK) and the CSIRO-Commonwealth Scientific Industrial Research Organisation (Cairns, Australia).
+PU  - MDPI
+PI  - BASEL
+PA  - ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN  - 2071-1050
+J9  - SUSTAINABILITY-BASEL
+JI  - Sustainability
+DA  - FEB
+PY  - 2024
+VL  - 16
+IS  - 3
+C7  - 1132
+DO  - 10.3390/su16031132
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:001160307600001
+N1  - Times Cited in Web of Science Core Collection:  7
+Total Times Cited:  7
+Cited Reference Count:  115
+ER  -
+
+TY  - CPAPER
+AU  - Nikolic, I
+AU  - Dijkema, GPJ
+AU  - Chappin, E
+AU  - Davis, C
+A1  - IEEE
+TI  - Model Based Decision Support for Creation And Operation of Sustainable Infrastructure
+T2  - 2009 IEEE INTERNATIONAL CONFERENCE ON SYSTEMS, MAN AND CYBERNETICS (SMC 2009), VOLS 1-9
+LA  - English
+CP  - IEEE International Conference on Systems, Man and Cybernetics
+KW  - Agent based modeling
+KW  - Complex Systems
+KW  - Evolution
+KW  - Infrastructure
+AB  - This paper focuses on the use of system thinking, complex adaptive systems theory and modeling to help create and operate sustainable energy infrastructure. These are capital-intensive, long-lived large scale socio-technical systems that evolve over decades. To enable high-level decision support on climate policy, strategic investment decisions or transition management, we are evolving a simulation engine for Agent-Based simulation of infrastructure development. The key functionality and capability of this engine is its ability for playing out possible futures, to identify development patterns and conditions for sustainability by exploring multiple scenarios. Two of the models completed serve to illustrate the approach. These address the ecological impact of bio-electricity and the long-term effect of CO2 policy on the electricity production technology portfolio. Limits and opportunities of the approach are discussed and an outline for future research is given.
+AD  - Delft Univ Technol, Fac Technol Policy & Management, Delft, NetherlandsC3  - Delft University of TechnologyPU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 1062-922X
+SN  - 978-1-4244-2793-2
+J9  - IEEE SYS MAN CYBERN
+PY  - 2009
+SP  - 3739
+EP  - 3744
+DO  - 10.1109/ICSMC.2009.5346889
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000279574602041
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  23
+ER  -
+
+TY  - JOUR
+AU  - Schreinemachers, P
+AU  - Berger, T
+AU  - Sirijinda, A
+AU  - Praneetvatakul, S
+TI  - The Diffusion of Greenhouse Agriculture in Northern Thailand: Combining Econometrics and Agent-Based Modeling
+T2  - CANADIAN JOURNAL OF AGRICULTURAL ECONOMICS-REVUE CANADIENNE D AGROECONOMIE
+LA  - English
+KW  - LAND-COVER CHANGE
+KW  - MULTIAGENT SYSTEMS
+KW  - SIMULATION
+KW  - POLICIES
+KW  - INNOVATIONS
+KW  - ADOPTION
+AB  - This paper studies the diffusion of greenhouse agriculture in a watershed in the northern uplands of Thailand by applying econometrics and agent-based modeling in combination. Adoption has been rapid by farmers in the central valley of the watershed, while farmers at higher altitudes, lacking transferable land titles that could serve as mortgage collateral, have been unable to obtain loans for greenhouse investment. The objectives of the paper are both methodological and empirical. On the methodological side, it shows that econometrically estimated models of farm household behavior are useful to design and to parameterize an agent-based model. On the empirical side, simulation results show that if mortgage collateral would not be required, then adoption in the upper part of the watershed could reach nearly 77% of farm households by 2020, as compared to about 36% under current conditions. Furthermore results suggest a significant increase in incomes related to the innovation and a substantially greater irrigation water use, especially in the central part. As bell pepper under greenhouses has replaced pesticide-intensive chrysanthemum, it has declined average levels of pesticide use. Nevertheless, pesticide use is high and farmers are struggling to control pests, which raises questions about the long-term sustainability of the innovation.
+AD  - Univ Hohenheim 490D, Dept Land Use Econ Trop & Subtrop, D-70593 Stuttgart, GermanyAD  - Chiang Mai Univ, Fac Agr, Uplands Program, Chiang Mai 50200, ThailandAD  - Kasetsart Univ, Fac Econ, Dept Agr & Resource Econ, Bangkok 10900, ThailandC3  - University HohenheimC3  - Chiang Mai UniversityC3  - Kasetsart UniversityFU  - Deutsche Forschungsgemeinschaft (DFG) [SFB-564]
+FX  - We acknowledge the financial support of the Deutsche Forschungsgemeinschaft (DFG) under SFB-564. We thank Tanaporn Hunkittikul and Orn-uma Polpanich for the skilful research assistance and thank Cindy Hugenschmidt and Walaya Sangchan for sharing data with us. We are grateful to James F. Nolan and two anonymous reviewers of this journal for their comments.
+PU  - WILEY
+PI  - HOBOKEN
+PA  - 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN  - 0008-3976
+SN  - 1744-7976
+J9  - CAN J AGR ECON
+JI  - Can. J. Agric. Econ.-Rev. Can. Agroecon.
+DA  - DEC
+PY  - 2009
+VL  - 57
+IS  - 4
+SP  - 513
+EP  - 536
+DO  - 10.1111/j.1744-7976.2009.01168.x
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000270900500006
+N1  - Times Cited in Web of Science Core Collection:  42
+Total Times Cited:  52
+Cited Reference Count:  33
+ER  -
+
+TY  - JOUR
+AU  - Amendola, M
+AU  - Lamperti, F
+AU  - Roventini, A
+AU  - Sapio, A
+TI  - Energy efficiency policies in an agent-based macroeconomic model
+T2  - STRUCTURAL CHANGE AND ECONOMIC DYNAMICS
+LA  - English
+KW  - Energy efficiency policies
+KW  - Energy intensity
+KW  - Sustainability
+KW  - Rebound effect
+KW  - Agent-based modelling
+KW  - RESEARCH-AND-DEVELOPMENT
+KW  - SCHUMPETERIAN PATTERNS
+KW  - STRUCTURAL-CHANGE
+KW  - OUTPUT GROWTH
+KW  - INNOVATION
+KW  - TECHNOLOGIES
+KW  - INTENSITY
+KW  - COUNTRIES
+KW  - CLIMATE
+KW  - CONSEQUENCES
+AB  - Energy efficiency can help facing the climate crises. Yet the energy intensity has decreased more slowly than required to achieve climate goals. Based on this premise, we build an agent-based model to study the effects of different energy efficiency policies. Policies analysed range from indirect policies - taxes, incentives, and subsidies - to direct technological policies, where a public research laboratory invests in R&D to establish a new technological energy efficiency paradigm. Results reveal that, although most of the policies effectively reduce energy intensity, the research lab is the most efficient in promoting energy efficiency without negative impacts on macroeconomic and public finance conditions. However, the success of this policy requires a long-term commitment, highlighting the importance of complementing this strategy with more "ready to use"measures. The findings also indicate that most policies do not induce significant macroeconomic rebound effects. Concerns about macroeconomic rebound effects may likely be overstated.
+AD  - Aquila Univ, Dept Ind & Informat Engn & Econ, Laquila, ItalyAD  - Inst Econ & EMbeDS, St Anna Sch Adv Studies, Pisa, ItalyAD  - RFF CMCC European Inst Econ & Environm, Milan, ItalyAD  - OFCE Sci Po, Sophia Antipolis, FranceAD  - Parthenope Univ Naples, Dept Business & Econ, Naples, ItalyC3  - Scuola Superiore Sant'AnnaC3  - Parthenope University NaplesPU  - ELSEVIER
+PI  - AMSTERDAM
+PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN  - 0954-349X
+SN  - 1873-6017
+J9  - STRUCT CHANGE ECON D
+JI  - Struct. Change and Econ. Dyn.
+DA  - MAR
+PY  - 2024
+VL  - 68
+SP  - 116
+EP  - 132
+DO  - 10.1016/j.strueco.2023.10.003
+C6  - OCT 2023
+WE  - Social Science Citation Index (SSCI)AN  - WOS:001108454100001
+N1  - Times Cited in Web of Science Core Collection:  16
+Total Times Cited:  16
+Cited Reference Count:  123
+ER  -
+
+TY  - JOUR
+AU  - Zhao, Y
+AU  - Zhao, N
+AU  - Yu, M
+AU  - Ma, J
+TI  - A Scenario Simulation Method for Regional Sustainability Coupled with SD and Emergy: Implications for Liaoning Province, China
+T2  - SUSTAINABILITY
+LA  - English
+KW  - emergy
+KW  - system dynamics
+KW  - scenario simulation
+KW  - eco-economy system
+KW  - sustainability
+KW  - SYSTEM DYNAMICS
+AB  - The eco-economic system is a complex system based on human activities, and the sustainability of the eco-economic system needs to maintain the balance between the three subsystems of society, economy, and environment. In this work, a comprehensive evaluation index system of the ecological-economic system of Liaoning Province in China was constructed by combining the emergy analysis and the system dynamic (SD) model, and four development scenarios were designed by adjusting the influencing factors of the ecological-economic system, based on the simulation and evaluation of the sustainable ecological and economic development of Liaoning Province from 2017 through to the next 19 years. The conclusion shows that, under the scenario of coordinated development type, the GDP, emergy density, and emergy output rate of Liaoning Province show an increasing trend; the ecological load, such as waste emergy ratio and environmental load rate, is small; and the sustainable development index and emergy sustainable development index are at a high level compared to other programs.
+AD  - Shenyang Jianzhu Univ, Sch Management, Shenyang 110168, Peoples R ChinaC3  - Shenyang Jianzhu UniversityFU  - Humanities and Social Sciences of the Ministry of Education [22YJA630121]; Natural Science Foundation of Liaoning [2022-MS-279]; Social and Science Foundation of Liaoning [L20BJY010]; Basic Scientific Research Project of Colleges and Universities in Liaoning Province [lnms202140]
+FX  - This paper is supported by Humanities and Social Sciences of the Ministry of Education 22YJA630121), Natural Science Foundation of Liaoning (2022-MS-279), Social and Science Foundation of Liaoning (L20BJY010), and Basic Scientific Research Project of Colleges and Universities in Liaoning Province (lnms202140).
+PU  - MDPI
+PI  - BASEL
+PA  - ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN  - 2071-1050
+J9  - SUSTAINABILITY-BASEL
+JI  - Sustainability
+DA  - OCT
+PY  - 2022
+VL  - 14
+IS  - 19
+C7  - 12130
+DO  - 10.3390/su141912130
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000867258100001
+N1  - Times Cited in Web of Science Core Collection:  4
+Total Times Cited:  4
+Cited Reference Count:  32
+ER  -
+
+TY  - JOUR
+AU  - Assefa, S
+AU  - Kessler, A
+AU  - Fleskens, L
+TI  - Using Agent-Based Modelling to Assess Scenarios for Enhanced Soil and Water Conservation in the Boset District, Ethiopia
+T2  - JASSS-THE JOURNAL OF ARTIFICIAL SOCIETIES AND SOCIAL SIMULATION
+LA  - English
+KW  - Social Simulation
+KW  - Farmers
+KW  - Soil and Water Conservation
+KW  - Scenario Analysis
+KW  - Ethiopia
+KW  - CENTRAL RIFT-VALLEY
+KW  - LAND-USE MODELS
+KW  - DECISION-MAKING
+KW  - MANAGEMENT
+KW  - INVESTMENTS
+KW  - SIMULATION
+KW  - HIGHLANDS
+KW  - DILEMMAS
+KW  - SYSTEMS
+AB  - The sustainability of the ongoing Campaign-Based Watershed Management (CBWM) program in Ethiopia is questionable due to poor planning and implementation of the Soil and Water Conservation (SWC) structures. This study uses an empirically based, agent-based model to explore the effect of six scenarios on both area of land covered by, as well as the quality of SWC structures in three Kebeles (villages) of Boset District. The analysis revealed that integrating multiple interventions enhanced SWC most in all Kebeles. Furthermore, increasing the commitment of local government through capacity building generated most effect and yet required the lowest investment. Motivating farmers, introducing alternative livelihood opportunities and establishing and strengthening micro-watershed associations had limited, but differential influence on the outcomes across the Kebeles. However, all alternative scenarios had some added value compared to doing business as usual. Hence, in order to enhance the outcomes and sustainability of the ongoing CBWM program in the study area and other similar localities, it is crucial to pay much more attention to increasing the commitment of local government actors through capacity building. This empowers local government actors to (1) plan and more efficiently implement the program in consultation with other local actors, and (2) integrate locally sensitive need-based adaptation of the program.
+AD  - Wageningen Univ & Res, POB 47, NL-6700 AA Wageningen, NetherlandsC3  - Wageningen University & ResearchPU  - J A S S S
+PI  - GUILDFORD
+PA  - UNIV SURREY, DEPT SOCIOLOGY, GUILDFORD GU2 7XH, SURREY, ENGLAND
+SN  - 1460-7425
+J9  - JASSS-J ARTIF SOC S
+JI  - JASSS
+DA  - OCT 31
+PY  - 2021
+VL  - 24
+IS  - 4
+C7  - 8
+DO  - 10.18564/jasss.4714
+WE  - Social Science Citation Index (SSCI)AN  - WOS:000714983900003
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  1
+Cited Reference Count:  52
+ER  -
+
+TY  - JOUR
+AU  - Gonzalez-Redin, J
+AU  - Polhill, JG
+AU  - Dawson, TP
+AU  - Hill, R
+AU  - Gordon, IJ
+TI  - Exploring sustainable scenarios in debt-based social-ecological systems: The case for palm oil production in Indonesia
+T2  - AMBIO
+LA  - English
+KW  - Agent-based model
+KW  - Debt
+KW  - Ecosystem services
+KW  - Palm oil
+KW  - Social-ecological system
+KW  - Sustainable development
+KW  - LAND-USE
+KW  - CONSERVATION
+KW  - DYNAMICS
+KW  - SERVICES
+KW  - PROTOCOL
+KW  - PAYMENT
+KW  - AREA
+AB  - A debt-based economy requires the accumulation of more and more debt to finance economic growth, while future economic growth is needed to repay the debt, and so the cycle continues. Despite global debt reaching unprecedented levels, little research has been done to understand the impacts of debt dynamics on environmental sustainability. Here, we explore the environmental impacts of the debt-growth cycle in Indonesia, the world's largest debt-based producer of palm oil. Our empirical Agent-Based Model analyses the future effects (2018-2050) of power (im)balance scenarios between debt-driven economic forces (i.e. banks, firms), and conservation forces, on two ecosystem services (food production, climate regulation) and biodiversity. The model shows the trade-offs and synergies among these indicators for Business As Usual as compared to alternative scenarios. Results show that debt-driven economic forces can partially support environmental conservation, provided the state's role in protecting the environment is reinforced. Our analysis provides a lesson for developing countries that are highly dependent on debt-based production systems: sustainable development pathways can be achievable in the short and medium terms; however, reaching long-term sustainability requires reduced dependency on external financial powers, as well as further government intervention to protect the environment from the rough edges of the market economy.
+AD  - James Hutton Inst, Informat & Computat Sci, Aberdeen AB15 8QH, ScotlandAD  - Kings Coll London, Dept Geog, London, EnglandAD  - CSIRO, Land & Water, Cairns, Qld, AustraliaAD  - James Cook Univ, Div Trop Environm & Soc, Townsville, Qld, AustraliaAD  - Australian Natl Univ, Fenner Sch Environm & Soc, Canberra, ACT, AustraliaC3  - James Hutton InstituteC3  - University of LondonC3  - King's College LondonC3  - Commonwealth Scientific & Industrial Research Organisation (CSIRO)C3  - James Cook UniversityC3  - Australian National UniversityFU  - Postgraduate School at the James Hutton Institute, Aberdeen, UK; University of Dundee (Geography and Environment Science)
+FX  - This work was partially supported by the Postgraduate School at the James Hutton Institute, Aberdeen, UK. In addition, support was also provided by the University of Dundee (Geography and Environment Science). The authors are solely responsible for the content of this publication. This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors.
+PU  - SPRINGER
+PI  - DORDRECHT
+PA  - VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN  - 0044-7447
+SN  - 1654-7209
+J9  - AMBIO
+JI  - Ambio
+DA  - SEP
+PY  - 2020
+VL  - 49
+IS  - 9
+SP  - 1530
+EP  - 1548
+DO  - 10.1007/s13280-019-01286-8
+C6  - DEC 2019
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000500889000002
+N1  - Times Cited in Web of Science Core Collection:  7
+Total Times Cited:  7
+Cited Reference Count:  73
+ER  -
+
+TY  - JOUR
+AU  - Sopha, BM
+AU  - Sakti, S
+AU  - Prasetia, ACG
+AU  - Dwiansarinopa, MW
+AU  - Cullinane, K
+TI  - Simulating long-term performance of regional distribution centers in archipelagic logistics systems
+T2  - MARITIME ECONOMICS & LOGISTICS
+LA  - English
+KW  - Archipelagic logistics system
+KW  - Agent-based modeling
+KW  - Hybrid optimization and simulation
+KW  - Regional distribution center (RDC)
+KW  - Long-term logistics performance
+KW  - URBAN CONSOLIDATION CENTER
+KW  - DISCRETE-EVENT SIMULATION
+KW  - SUPPLY CHAIN
+KW  - HUB
+KW  - LOCATION
+KW  - DYNAMICS
+KW  - NETWORKS
+KW  - DESIGN
+KW  - SUSTAINABILITY
+KW  - OPTIMIZATION
+AB  - Indonesia has reevaluated its archipelagic logistics system to implement a strategic shift from a point-to-point network to a hub-and-spoke network, with a plan to establish seven new regional distribution centers (RDCs). To supplement the previous qualitative assessment of the plan and to potentially justify continuing with its implementation, this paper aims to evaluate the prospective long-term performance of the planned RDCs within a hub-and-spoke (HS) network. The chosen methodology for this analysis is a hybrid of optimization and simulation, using an agent-based modeling and simulation platform that incorporates a geographic information system (GIS) element to provide a realistic geographical context. This constitutes a relatively novel innovation in logistics research. Experiments were developed to estimate the logistics performance of the hub-and-spoke network and planned RDCs, as well as to identify potential problems such as bottlenecks at the RDCs and the relative (in)efficiency of the selected multimodal transport. Transport costs, inventory costs, and the order backlog of RDCs are evaluated based on the average results from 100 replications. Outcomes from the model are validated against empirical data on Indonesia's logistics costs from the World Bank. Model results indicate that the hub-and-spoke network performs better than the point-to-point network when it comes to transportation costs. Since this is found to be the dominant element of total logistics costs, appropriate modal choice and route optimization are, therefore, critical to reducing logistics costs. The planned RDCs are found to have significant imbalance in their loadings, which is likely to produce bottlenecks. The paper concludes that a planned move to a hub-and spoke system is appropriate and that the planned investment in the RDCs is therefore justified. However, there is a need to streamline the predicted loadings at the RDCs to avoid bottlenecks. Our results suggest that the government should reopen the case and reevaluate the locations and coverage of each RDC. More generically, it is concluded that the application of hybrid optimization and simulation using agent-based modeling and simulation is feasible and the methodological approach adopted herein is generalizable to other archipelagic logistics systems.
+AD  - Univ Gadjah Mada, Dept Mech & Ind Engn, Yogyakarta, IndonesiaAD  - Natl Cheng Kung Univ, Dept Ind & Informat Management, Tainan, TaiwanAD  - Univ Gothenburg, Sch Business Econ & Law, Gothenburg, SwedenC3  - Gadjah Mada UniversityC3  - National Cheng Kung UniversityC3  - University of GothenburgFU  - Indonesian Ministry of Research and Technology/National Agency for Research and Innovation; Indonesian Ministry of Education and Culture under the World Class University Program
+FX  - This research is partially funded by the Indonesian Ministry of Research and Technology/National Agency for Research and Innovation and the Indonesian Ministry of Education and Culture under the World Class University Program, managed by Institut Teknologi Bandung. The authors thank the editor and anonymous referees for their valuable comments and suggested improvements.
+PU  - PALGRAVE MACMILLAN LTD
+PI  - BASINGSTOKE
+PA  - BRUNEL RD BLDG, HOUNDMILLS, BASINGSTOKE RG21 6XS, HANTS, ENGLAND
+SN  - 1479-2931
+SN  - 1479-294X
+J9  - MARIT ECON LOGIST
+JI  - Marit. Econ. Logist.
+DA  - DEC
+PY  - 2021
+VL  - 23
+IS  - 4
+SP  - 697
+EP  - 725
+DO  - 10.1057/s41278-020-00166-3
+C6  - SEP 2020
+WE  - Social Science Citation Index (SSCI)AN  - WOS:000569497000001
+N1  - Times Cited in Web of Science Core Collection:  3
+Total Times Cited:  3
+Cited Reference Count:  70
+ER  -
+
+TY  - JOUR
+AU  - Li, W
+AU  - Yuan, JF
+AU  - Zhang, GD
+AU  - Wei, SL
+AU  - Zhang, BG
+AU  - Skibniewski, MJ
+TI  - Agent-Based Simulation Modeling for the Evaluation and Dynamic Adjustment of Project Benefits in Urban Rail Transit PPPs
+T2  - JOURNAL OF MANAGEMENT IN ENGINEERING
+LA  - English
+KW  - Project benefits
+KW  - Urban rail transit (URT)
+KW  - Public private partnerships (PPPs)
+KW  - Agent-based modeling (ABM)
+KW  - Stakeholders
+KW  - CONTINGENT VALUATION METHOD
+KW  - SHARING RATIO
+KW  - MANAGEMENT
+KW  - CONSTRUCTION
+KW  - INVESTMENT
+KW  - SUCCESS
+KW  - SYSTEMS
+AB  - Urban rail transit (URT) public-private partnership (PPP) projects are long-term, complex projects involving numerous stakeholders. Various unforeseeable events make the benefits of these projects uncertain, and disputes about the distribution and adjustment of benefits can seriously threaten project success. Therefore, there is a pressing need to effectively evaluate the project benefits available to various stakeholders and design a dynamic benefit-adjustment mechanism to ensure the successful completion of URT PPP projects. In full consideration of the complexities of projects of this nature and the adaptive behaviors of different stakeholders, a modeling framework was proposed to simulate the realization and dynamic adjustment of project benefits as a complex and comprehensive system defined by the microlevel dynamic behaviors of stakeholders and interactions among these behaviors through agent-based modeling (ABM). The framework was utilized to emulate a real-world URT PPP project for demonstration purposes. Next, two scenarios were simulated that considered the effects of the purchase behavior of the public and decisions concerning benefit adjustment on project benefits. The framework is a powerful decision support tool with regard to the benefits of URT PPP projects in that it can promote the maximization of overall benefits and the sustainability of URT projects.
+AD  - Southeast Univ, Sch Civil Engn, Dept Construction & Real Estate, Nanjing 211189, Peoples R ChinaAD  - Southeast Univ, Sch Civil Engn, Dept Construction & Real Estate, Nanjing 211189, Peoples R ChinaAD  - Southeast Univ, Sch Civil Engn, Dept Construction & Real Estate, Nanjing 211189, Peoples R ChinaAD  - City Univ Hong Kong, Dept Architecture & Civil Engn, Tat Chee Ave, Hong Kong, Peoples R ChinaAD  - Global Business Co China Energy Engn Grp Jiangsu P, Moling St, Nanjing 211100, Peoples R ChinaAD  - Investment Dept Guangdong Yuehai Water Investment, Huangbei St, Shenzhen 518000, Peoples R ChinaAD  - Univ Maryland, Dept Civil & Environm Engn, College Pk, MD 20742 USAAD  - Chaoyang Univ Technol, Dept Construction Engn, Taichung, TaiwanAD  - Polish Acad Sci, Inst Theoret & Appl Informat, PL-44100 Gliwice, PolandC3  - Southeast University - ChinaC3  - Southeast University - ChinaC3  - Southeast University - ChinaC3  - City University of Hong KongC3  - University System of MarylandC3  - University of Maryland College ParkC3  - Chaoyang University of TechnologyC3  - Polish Academy of SciencesC3  - Institute of Theoretical & Applied Informatics of the Polish Academy of SciencesFU  - National Natural Science Foundation of China (NSFC) [71671042, 72072031]; Qinglan Project of Jiangsu Province of China; Graduate Research and Innovation Projects of Jiangsu Province [KYCX18_0201]
+FX  - The authors' special thanks go to all reviewers of the paper and to the National Natural Science Foundation of China (NSFC-71671042 and 72072031), the Qinglan Project of Jiangsu Province of China, and the Graduate Research and Innovation Projects of Jiangsu Province (KYCX18_0201) for financially supporting this research.
+PU  - ASCE-AMER SOC CIVIL ENGINEERS
+PI  - RESTON
+PA  - 1801 ALEXANDER BELL DR, RESTON, VA 20191-4400 USA
+SN  - 0742-597X
+SN  - 1943-5479
+J9  - J MANAGE ENG
+JI  - J. Manage. Eng.
+DA  - MAR 1
+PY  - 2023
+VL  - 39
+IS  - 2
+C7  - 04022074
+DO  - 10.1061/JMENEA.MEENG-4682
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000914641800015
+N1  - Times Cited in Web of Science Core Collection:  9
+Total Times Cited:  9
+Cited Reference Count:  71
+ER  -
+
+TY  - JOUR
+AU  - Delcea, C
+AU  - Cotfas, LA
+AU  - Chirita, N
+AU  - Nica, I
+TI  - A Two-Door Airplane Boarding Approach When Using Apron Buses
+T2  - SUSTAINABILITY
+LA  - English
+KW  - airplane boarding strategies
+KW  - agent-based modelling
+KW  - NetLogo 6.0.4
+KW  - efficiency evaluation
+KW  - sustainability
+KW  - two-door boarding
+KW  - LINEAR-PROGRAMMING APPROACH
+KW  - SIMULATION
+KW  - PASSENGERS
+KW  - MODEL
+KW  - OPTIMIZATION
+KW  - TIME
+KW  - CLASSIFICATION
+KW  - STRATEGIES
+KW  - LUGGAGE
+KW  - SYSTEMS
+AB  - Boarding is one of the major processes of airplane turnaround time, with a direct influence on the airline companies' costs. From a sustainable point of view, a faster completion of the boarding process has impact not only on the airline company's long-term performance, but also on customers' satisfaction and on the airport's possibility of offering more services without additional investments in new infrastructure. Considering the airplane boarding strategies literature, it can be observed that the latest papers are dealing with developing faster boarding strategies, most of them considering boarding using just one-door of the aircraft. Even though boarding on one-door might be feasible for the airports having the needed infrastructure and sufficient jet-bridges, the situation is different in European airports, as the use of apron buses is fairly common. Moreover, some of the airline companies have adapted their boarding pass in order to reflect which door one should board once they get down from the bus. While using these buses, the boarding strategies developed in the literature are hard to find their applicability. Thus, a new method for boarding on two-door airplanes when apron buses are used is proposed and tested against the actual boarding method. A model is created in NetLogo 6.0.4, taking advantages of the agent-based modeling and used for simulations. The results show a boarding time reduction of 8.91%.
+AD  - Bucharest Univ Econ Studies, Dept Econ Informat & Cybernet, Bucharest 010522, RomaniaC3  - Bucharest University of Economic StudiesPU  - MDPI
+PI  - BASEL
+PA  - ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN  - 2071-1050
+J9  - SUSTAINABILITY-BASEL
+JI  - Sustainability
+DA  - OCT
+PY  - 2018
+VL  - 10
+IS  - 10
+C7  - 3619
+DO  - 10.3390/su10103619
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000448559400261
+N1  - Times Cited in Web of Science Core Collection:  15
+Total Times Cited:  16
+Cited Reference Count:  49
+ER  -
+
+TY  - JOUR
+AU  - Zhou, GY
+AU  - Dong, QY
+AU  - Feng, CY
+AU  - Jia, YW
+TI  - Spatial dynamics and competitive pricing in charging-as-a-service markets: The quest for cleaner urban development
+T2  - CLEANER LOGISTICS AND SUPPLY CHAIN
+LA  - English
+KW  - Electric vehicles
+KW  - Charging-as-a-service
+KW  - Spatial pricing competition
+KW  - Agent-based modeling
+KW  - Geographic information systems
+KW  - STATIONS
+KW  - INFRASTRUCTURE
+KW  - GAME
+AB  - To redefine the mobility and energy usage patterns in urban cities, the exponential rise in fast-charging loads of electric vehicles (EVs) necessitates a new operating paradigm. In this context, a competitive market emerges where multiple oligarchic Charging-as-a-Service (CaaS) providers vie for profit. However, analyzing such systems, especially in a long-term rolling horizon, poses significant challenges due to complex strategic interactions among multiple entities. This article proposes an agent-based model to analyze the evolution of spatial CaaS markets. Firstly, we propose a strategic pricing game among CaaS firms based on multinomial logit user choice model, and formally prove the existence of Nash equilibria. For equilibrium finding, an iterative algorithm method leveraging the Nikaido-Isoda function and Barzilai-Borwein step size rule is presented. Furthermore, an agent-based market simulation algorithm is developed to model investment decisions of CaaS firm agents based on equilibrium prices. The proposed model is validated using real world data from Shenzhen, and results indicate the efficacy of the equilibrium solving algorithm in reducing computational burden. This study reveals that deregulated competition among CaaS providers, while promoting social welfare, poses risks to long-term sustainability due to regional inequality and market saturation. Timely policy intervention is recommended to guide the sustainable evolution of the CaaS economy.
+AD  - Sun Yat Sen Univ, Business Sch, Shenzhen 518107, Peoples R ChinaAD  - Southern Univ Sci & Technol, Dept Elect & Elect Engn, Shenzhen, Peoples R ChinaC3  - Sun Yat Sen UniversityC3  - Southern University of Science & TechnologyFU  - Shenzhen Academy of Social Sciences [SZ2024C009]
+FX  - This work is sponsored by Shenzhen Academy of Social Sciences under Grant Number SZ2024C009.
+PU  - ELSEVIER
+PI  - AMSTERDAM
+PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN  - 2772-3909
+J9  - CLEAN LOGIST SUPPL C
+JI  - Clean. Logist. Supply Chain
+DA  - MAR
+PY  - 2025
+VL  - 14
+C7  - 100199
+DO  - 10.1016/j.clscn.2024.100199
+C6  - DEC 2024
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001401350700001
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  30
+ER  -
+
+TY  - JOUR
+AU  - Barazza, E
+AU  - Li, PH
+AU  - Strachan, N
+TI  - Modelling governance for a successful electricity sector decarbonisation
+T2  - ENERGY RESEARCH & SOCIAL SCIENCE
+LA  - English
+KW  - Agent-based modelling
+KW  - Electricity transition
+KW  - Governance
+KW  - Societal pressure
+KW  - Policy stability
+KW  - Virtuous cycles
+KW  - POLITICAL SUSTAINABILITY
+KW  - ENERGY TRANSITIONS
+KW  - RENEWABLE ENERGY
+KW  - POLICY
+KW  - CLIMATE
+KW  - CHALLENGES
+KW  - FRAMEWORK
+KW  - SCIENCE
+KW  - SYSTEM
+AB  - Early and deep electricity decarbonisation is critical to achieve the overall energy transition target of net-zero emissions by 2050. This paper extends an electricity agent based model to capture the inter-dependence of consistent governance with underpinning societal pressure and resultant investment strategies. Results show only with the strongest level of governance - reflected in the range of national/local policy mechanisms used, and their strength/timing when interim targets are met/missed - can near-zero electricity emissions be met well before 2050. Strong governance can also ensure a stable electricity system, with consistent policies mitigating the intensity of any investment cycles. Strong governance entails higher capital investments, but these can deliver lower electricity prices in the long-term. And strong governance means that a successful electricity decarbonisation does not need to be built solely on existing incumbents, but also via local cooperatives to aggregate household financing and demand side management. However, with inconsistent governance, a vicious cycle ensues with a weak rationale to enact ambitious policies at both the local and national levels, significant inertia in new electricity investments, and hence "failure" scenarios of decarbonisation. This challenges the prior findings of optimistic achievement of electricity decarbonisation scenarios by standard techno-economic optimisation models.
+AD  - UCL, UCL Energy Inst, 14 Upper Woburn Pl, London WC1H 0NN, EnglandC3  - University of LondonC3  - University College LondonFU  - UK Energy Research Centre Phase 4; NERC; EPSRC; ESRC [EP/S029575/1]; Engineering and Physical Sciences Research Council [EP/S029575/1] Funding Source: researchfish; EPSRC [EP/S029575/1] Funding Source: UKRI
+FX  - This work was supported through the UK Energy Research Centre Phase 4 (co-funded by NERC, EPSRC and ESRC) under grant agreement EP/S029575/1. For the purpose of open access, the author has applied a Creative Commons Attribution (CC BY) licence to any Author Accepted Manuscript version arising. The authors thank Rachel Freeman for insights in incorporating governance mechanisms.
+PU  - ELSEVIER
+PI  - AMSTERDAM
+PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN  - 2214-6296
+SN  - 2214-6326
+J9  - ENERGY RES SOC SCI
+JI  - Energy Res. Soc. Sci.
+DA  - OCT
+PY  - 2023
+VL  - 104
+C7  - 103240
+DO  - 10.1016/j.erss.2023.103240
+C6  - AUG 2023
+WE  - Social Science Citation Index (SSCI)AN  - WOS:001061052200001
+N1  - Times Cited in Web of Science Core Collection:  3
+Total Times Cited:  3
+Cited Reference Count:  61
+ER  -
+
+TY  - JOUR
+AU  - Wong, SM
+AU  - Montalto, FA
+TI  - Exploring the Long-Term Economic and Social Impact of Green Infrastructure in New York City
+T2  - WATER RESOURCES RESEARCH
+LA  - English
+KW  - agent model
+KW  - green infrastructure
+KW  - ecosystem services
+KW  - urban modeling
+KW  - urban ecohydrology
+KW  - co&#8208
+KW  - benefits
+KW  - AGENT-BASED MODELS
+KW  - RESTORING ECOSYSTEM SERVICES
+KW  - LIFE-CYCLE ASSESSMENT
+KW  - URBAN
+KW  - BENEFITS
+KW  - ENVIRONMENT
+KW  - COMPLEXITY
+KW  - VALUATION
+KW  - PROTOCOL
+KW  - BEHAVIOR
+AB  - Across the world, cities are spending billions of dollars to manage urban runoff through decentralized green infrastructure (GI). This research uses an agent-based model to explore some of the physical, social, and economic consequences of one such urban GI programs. Using the Bronx, NY, as a case study, two alternative approaches to GI application are compared. The first (Model 1) mimics NYC's current GI program by opportunistically selecting sites for GI within the city's priority combined sewer watersheds; the second (Model 2) features a more spatially flexible approach to GI siting, in which the city attempts to maximize opportunities for co-benefits within the geographic areas considered in Model 1. The effects of both approaches, measured in terms of stormwater captured and co-benefits (e.g., carbon sequestered) provided, are tracked over 20-year simulations. While both models suggest it will be difficult to meet the citywide stormwater capture goals (managing the first 2.5 cm of rainfall from 10% of impervious surfaces) in the Bronx solely through public investment in GI, Model 2 shows that by integrating GI with other city initiatives (e.g., sustainability goals and resilience planning), synergistic outcomes are possible. Specifically, Model 2 produces stormwater capture rates comparable to those obtained under Model 1, but these rates are accompanied by elevated co-benefits for Bronx communities. The results are discussed in the context of future GI policy development in NYC.
+AD  - Drexel Univ, Dept Civil Architectural & Environm Engn, Philadelphia, PA 19104 USAAD  - Natl Snow & Ice Data Ctr, Boulder, CO 80303 USAAD  - eDesign Dynam, New York, NY USAC3  - Drexel UniversityFU  - National Science Foundation through CAREER: Integrated Assessments of the Impacts of Decentralized Land Use and Water Management [CBET: 1150994]; National Science Foundation through Coastal SEES (Track 2) Collaborative: Developing High Performance Green Infrastructure Systems to Sustain Coastal Cities [CMMI: 1325328]; National Oceanic and Atmospheric Association (NOAA) through Supporting Regional Implementation of Integrated Climate Resilience: Consortium for Climate Risks in the Urban Northeast (CCRUN) Phase II [NA15OAR4310147]
+FX  - This research was partially funded by the National Science Foundation through CAREER: Integrated Assessments of the Impacts of Decentralized Land Use and Water Management (CBET: 1150994), and Coastal SEES (Track 2), Collaborative: Developing High Performance Green Infrastructure Systems to Sustain Coastal Cities (CMMI: 1325328), and the National Oceanic and Atmospheric Association (NOAA) through Supporting Regional Implementation of Integrated Climate Resilience: Consortium for Climate Risks in the Urban Northeast (CCRUN) Phase II (NA15OAR4310147).
+PU  - AMER GEOPHYSICAL UNION
+PI  - WASHINGTON
+PA  - 2000 FLORIDA AVE NW, WASHINGTON, DC 20009 USA
+SN  - 0043-1397
+SN  - 1944-7973
+J9  - WATER RESOUR RES
+JI  - Water Resour. Res.
+DA  - NOV
+PY  - 2020
+VL  - 56
+IS  - 11
+C7  - e2019WR027008
+DO  - 10.1029/2019WR027008
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000595832300027
+N1  - Times Cited in Web of Science Core Collection:  17
+Total Times Cited:  18
+Cited Reference Count:  98
+ER  -
+
+TY  - JOUR
+AU  - Patel, V
+AU  - Boruff, B
+AU  - Biggs, E
+AU  - Pauli, N
+TI  - Assessing the influence of variation in forage availability on spatial patterns of beehive migration using a hybrid modelling approach-B-Agent
+T2  - APPLIED GEOGRAPHY
+LA  - English
+KW  - Agent-based model
+KW  - Social-ecological interactions
+KW  - Decision-making
+KW  - Beekeeping system
+KW  - B-Agent
+KW  - Climate change
+KW  - CLIMATE-CHANGE
+KW  - LAND-USE
+KW  - SYSTEMS
+KW  - HONEY
+KW  - BEHAVIOR
+KW  - BANKSIA
+KW  - IMPACTS
+KW  - BEES
+AB  - Bees and beekeeping are increasingly recognised as important contributors to sustainable development. Beekeeping is a landscape-scale process that involves complex interconnectivities between beekeepers, beehives and bee forage. Yet, accounting for these interactions within beekeeping system models is challenging as in-teractions are dynamic and often influenced by human behaviour and decision making. To this end, this research describes a spatially explicit modelling approach B-Agent, which draws upon multiple stakeholder engagement, a machine-learning algorithm and an agent-based model to simulate beehive migration processes. The Western Australian beekeeping sector provides a case study for model development and testing, to examine changes in (i) distances travelled by beekeepers, (ii) the frequency of beehive migration, and (iii) the spatial distribution of harvest locations resulting from climate related impacts on forage availability. The results indicate an increase in travel distance and frequency of hive migrations for commercial beekeepers under a moderate emissions climate scenario and indicated an eastward shift in the spatial distribution of harvest locations. The approach provides an evidence-base for better-informed management decisions in order to improve the long-term sustainability of beekeeping systems in Western Australia and beyond.
+AD  - Univ Western Australia, UWA Sch Agr & Environm, 35 Stirling Highway, Crawley, WA 6009, AustraliaAD  - Univ Western Australia, Cooperat Res Ctr Honey Bee Prod, 35 Stirling Highway,Agr North M085, Crawley, WA 6009, AustraliaAD  - Univ Western Australia, Sch Social Sci, Dept Archaeol Geog & Anthropol, 35 Stirling Highway, Crawley, WA 6009, AustraliaAD  - Univ Western Australia, Crawley, AustraliaAD  - Cooperat Res Ctr Honey Bee Prod, Crawley, AustraliaC3  - University of Western AustraliaC3  - University of Western AustraliaC3  - University of Western AustraliaC3  - University of Western AustraliaFU  - Cooperative Research Centre for Honey Bee Products (CRCHBP) [CRC20160042]; Department of Industry, Science, Energy and Resources, and Bee Industry Council of Western Australia (BICWA); Faculty of Science, University of Western Australia
+FX  - The authors acknowledge financial and in-kind support from the Cooperative Research Centre for Honey Bee Products (CRCHBP) [CRC20160042] , Department of Industry, Science, Energy and Resources, and Bee Industry Council of Western Australia (BICWA) . We also acknowledge all our participant beekeepers for contributing their time and knowledge to this research. We further acknowledge Manita Narongsirikul for her support during the data collection process and Daniel Dixon for his help with python programming. Some visual components of the graphical abstracts were sourced from the Integration and Application Network (ian.umces.edu/medialibrary) provided for use through an Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) licence. This research was undertaken with funding support from the Cooperative Research Centre for Honey Bee Products [CRC20160042] and the Faculty of Science, University of Western Australia.
+PU  - ELSEVIER SCI LTD
+PI  - London
+PA  - 125 London Wall, London, ENGLAND
+SN  - 0143-6228
+SN  - 1873-7730
+J9  - APPL GEOGR
+JI  - Appl. Geogr.
+DA  - AUG
+PY  - 2023
+VL  - 157
+C7  - 103003
+DO  - 10.1016/j.apgeog.2023.103003
+C6  - JUN 2023
+WE  - Social Science Citation Index (SSCI)AN  - WOS:001023992800001
+N1  - Times Cited in Web of Science Core Collection:  4
+Total Times Cited:  4
+Cited Reference Count:  68
+ER  -
+
+TY  - JOUR
+AU  - Naeem, K
+AU  - Zghibi, A
+AU  - Elomri, A
+AU  - Mazzoni, A
+AU  - Triki, C
+TI  - A Literature Review on System Dynamics Modeling for Sustainable Management of Water Supply and Demand
+T2  - SUSTAINABILITY
+LA  - English
+KW  - system dynamics modeling (SDM)
+KW  - water supply and demand management (WSDM)
+KW  - groundwater sustainability
+KW  - optimization
+KW  - sustainable development
+KW  - OF-THE-ART
+KW  - RESOURCES MANAGEMENT
+KW  - CLIMATE-CHANGE
+KW  - GROUNDWATER-MANAGEMENT
+KW  - SIMULATION-MODEL
+KW  - CONJUNCTIVE USE
+KW  - ARID REGIONS
+KW  - RIVER-BASIN
+KW  - OPTIMIZATION
+KW  - IMPACT
+AB  - Water supply and demand management (WSDM) is essential for developing sustainable cities and societies. WSDM is only effective when tackled from the perspective of a holistic system understanding that considers social, environmental, hydrological, and economic (SEHEc) sub-systems. System dynamics modeling (SDM) is recommended by water resource researchers as it models the biophysical and socio-economic systems simultaneously. This study presents a comprehensive literature review of SDM applications in sustainable WSDM. The reviewed articles were methodologically analyzed considering SEHEc sub-systems and the type of modeling approach used. This study revealed that problem conceptualization using the causal loop diagram (CLD) was performed in only 58% of the studies. Moreover, 70% of the reviewed articles used the stock flow diagram (SFD) to perform a quantitative system analysis. Furthermore, stakeholder engagement plays a significant role in understanding the core issues and divergent views and needs of users, but it was incorporated by only 36% of the studies. Although climate change significantly affects water management strategies, only 51% of the reviewed articles considered it. Although the scenario analysis is supported by simulation models, they further require the optimization models to yield optimal key parameter values. One noticeable finding is that only 12% of the articles used quantitative models to complement SDM for the decision-making process. The models included agent-based modeling (ABM), Bayesian networking (BN), analytical hierarchy approach (AHP), and simulation optimization multi-objective optimization (MOO). The solution approaches included the genetic algorithm (GA), particle swarm optimization (PSO), and the non-dominated sorting genetic algorithm (NSGA-II). The key findings for the sustainable development of water resources included the per capita water reduction, water conservation through public awareness campaigns, the use of treated wastewater, the adoption of efficient irrigation practices including drip irrigation, the cultivation of low-water-consuming crops in water-stressed regions, and regulations to control the overexploitation of groundwater. In conclusion, it is established that SDM is an effective tool for devising strategies that enable sustainable water supply and demand management.
+AD  - Hamad Bin Khalifa Univ, Qatar Fdn, Coll Sci & Engn, POB 34110, Doha, QatarAD  - Univ Tunis El Manar, Fac Sci Tunis, Dept Geol, Lab Geol Resources & Environm, Tunis 2092, TunisiaAD  - Hamad Bin Khalifa Univ, Qatar Fdn, Qatar Environm & Energy Res Inst, POB 34110, Doha, QatarAD  - Univ Kent, Kent Business Sch, Canterbury CT2 7UL, EnglandC3  - Qatar Foundation (QF)C3  - Hamad Bin Khalifa University-QatarC3  - Universite de Tunis-El-ManarC3  - Faculte des Sciences de Tunis (FST)C3  - Qatar Foundation (QF)C3  - Hamad Bin Khalifa University-QatarC3  - Qatar Environment & Energy Research InstituteC3  - University of KentFU  - Qatar National Research Fund (a member of Qatar foundation) [BFC04-0719-200004]
+FX  - This publication was made possible by BFC grant #BFC04-0719-200004 from the Qatar National Research Fund (a member of Qatar foundation). The findings herein reflect the work, and are solely the responsibility of the authors.
+PU  - MDPI
+PI  - BASEL
+PA  - ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN  - 2071-1050
+J9  - SUSTAINABILITY-BASEL
+JI  - Sustainability
+DA  - APR
+PY  - 2023
+VL  - 15
+IS  - 8
+C7  - 6826
+DO  - 10.3390/su15086826
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000979388600001
+N1  - Times Cited in Web of Science Core Collection:  16
+Total Times Cited:  16
+Cited Reference Count:  104
+ER  -
+
+TY  - JOUR
+AU  - Guerrero, OA
+AU  - Castañeda, G
+AU  - Trujillo, G
+AU  - Hackett, L
+AU  - Chávez-Juárez, F
+TI  - Subnational sustainable development: The role of vertical intergovernmental transfers in reaching multidimensional goals
+T2  - SOCIO-ECONOMIC PLANNING SCIENCES
+LA  - English
+KW  - Subnational development
+KW  - SDGs State finances
+KW  - Fiscal federalism
+KW  - Sustainability Policy priorities
+KW  - Agent-based model
+KW  - DECENTRALIZATION
+AB  - From a public finance point of view, achieving sustainable development hinges on two critical factors: the subnational implementation of public policies and the efficient allocation of resources across regions through vertical intergovernmental transfers. We introduce a framework that links these two mechanisms for analyzing the impact of reallocating federal transfers in the presence of regional heterogeneity from development indicators, budget sizes, expenditure returns, and long-term structural factors. Our study focuses on the case of Mexico and its 32 states. Using an agent-based computational model, we estimate the development gaps that will remain by the year 2030, and characterize their sensitivity to changes in the states' budget sizes. Then, we estimate the optimal distribution of federal transfers to minimize these gaps. Crucially, these distributions depend on the specific development objectives set by the national government, and by various interdependencies between the heterogeneous qualities of the states. This work sheds new light on the complex problem of budgeting for the Sustainable Development Goals at the subnational level, and it is especially relevant for the study of fiscal decentralization from the expenditure point of view.
+AD  - UCL, Dept Econ, London, EnglandAD  - Alan Turing Inst, London, EnglandAD  - Ctr Invest & Docencia Econ, Mexico City, DF, MexicoAD  - Ctr Estudios Demog Urbanos & Ambient, El Colegio De Mexico, MexicoAD  - Univ Calif Berkeley, Dept Agr & Resource Econ, Berkeley, CA USAAD  - CORESO Collaborat Res Solut, Dully, SwitzerlandC3  - University of LondonC3  - University College LondonC3  - Alan Turing InstituteC3  - Centro de Investigacion y Docencia Economicas A.C. (CIDE)C3  - University of California SystemC3  - University of California BerkeleyFU  - Alan Turing Institute under the EPSRC [EP/N510129/1]; ESRC [ES/T005319/1]; Engineering and Physical Sciences Research Council [EP/N510129/1] Funding Source: researchfish; EPSRC [EP/N510129/1] Funding Source: UKRI; ESRC [ES/T005319/1] Funding Source: UKRI
+FX  - This work was supported by The Alan Turing Institute under the EPSRC grant EP/N510129/1 and by the ESRC grant ES/T005319/1.
+PU  - ELSEVIER SCIENCE INC
+PI  - NEW YORK
+PA  - STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN  - 0038-0121
+SN  - 1873-6041
+J9  - SOCIO-ECON PLAN SCI
+JI  - Socio-Econ. Plan. Sci.
+DA  - OCT
+PY  - 2022
+VL  - 83
+DO  - 10.1016/j.seps.2021.101155
+C6  - AUG 2022
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000884567300003
+N1  - Times Cited in Web of Science Core Collection:  12
+Total Times Cited:  12
+Cited Reference Count:  37
+ER  -
+
+TY  - JOUR
+AU  - Gonzalez-Ramirez, J
+AU  - Arora, P
+AU  - Podesta, G
+TI  - Using Insights from Prospect Theory to Enhance Sustainable Decision Making by Agribusinesses in Argentina
+T2  - SUSTAINABILITY
+LA  - English
+KW  - risk preferences
+KW  - prospect theory
+KW  - land tenure
+KW  - agribusiness decision making
+KW  - sustainable agriculture
+KW  - AGENT BASED-MODEL
+KW  - LA PLATA BASIN
+KW  - CROP PRODUCTION
+KW  - RISK
+KW  - CONSERVATION
+KW  - DYNAMICS
+KW  - ADOPTION
+KW  - LESSONS
+KW  - CLIMATE
+KW  - PAMPAS
+AB  - Farm production often involves family-owned agribusinesses where decisions are made by households or individuals, not corporate managers. As these decisions have important economic, environmental, and social implications, decision-making processes must be understood to foster sustainable agricultural production. Decision experiments, involving lotteries, targeting farmers in the Argentine Pampas were used to estimate prospect theory (PT) parameters. Results suggest that decisions under risk are better represented by prospect theory than by expected utility (EU) theory: Decision makers treat gains and losses differently and use subjective probabilities of outcomes; they are quite loss averse and are more likely to overweigh probabilities of infrequent events, such as large droughts or floods. Statistical testing revealed heterogeneity in the risk tied to land tenure (land owners vs. renters) and agribusiness roles (farmers vs. technical advisors). Perceptions of risk, probability, and outcomes played a large role in the sustainability of production. Due to a strong desire to avoid losses, decision makers have a greater short term focus: Immediate economic outcomes are more salient, and environmental and social investments are framed as costs rather than long-term gains. This research can help design policies, programs, and tools that assist agribusinesses in managing better contradictions across the triple bottom line to ensure greater sustainability.
+AD  - Manhattan Coll, OMalley Sch Business, Riverdale, NY 10471 USAAD  - Univ Miami, Rosenstiel Sch Marine & Atmospher Sci, 4600 Rickenbacker Causeway, Miami, FL 33149 USAC3  - Manhattan UniversityC3  - University of MiamiFU  - NSF [SES-0345840, CNH-1211613]; Direct For Social, Behav & Economic Scie; Divn Of Social and Economic Sciences [1357478] Funding Source: National Science Foundation; Directorate For Geosciences [1211613] Funding Source: National Science Foundation
+FX  - This research was funded by NSF Grant # SES-0345840 to the Center for Environmental Decisions (CRED), Columbia University, and by NSF Grant # CNH-1211613 to the second and third authors.
+PU  - MDPI
+PI  - BASEL
+PA  - ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN  - 2071-1050
+J9  - SUSTAINABILITY-BASEL
+JI  - Sustainability
+DA  - AUG
+PY  - 2018
+VL  - 10
+IS  - 8
+C7  - 2693
+DO  - 10.3390/su10082693
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000446767700109
+N1  - Times Cited in Web of Science Core Collection:  21
+Total Times Cited:  22
+Cited Reference Count:  61
+ER  -
+
+TY  - JOUR
+AU  - Ponta, L
+AU  - Raberto, M
+AU  - Teglio, A
+AU  - Cincotti, S
+TI  - An Agent-based Stock-flow Consistent Model of the Sustainable Transition in the Energy Sector
+T2  - ECOLOGICAL ECONOMICS
+LA  - English
+KW  - Sustainability transition
+KW  - Energy sector
+KW  - Feed-in tariff
+KW  - Agent-based modeling
+KW  - POLICY
+KW  - MARKETS
+KW  - INFORMATION
+KW  - CREDIT
+KW  - MACROECONOMICS
+KW  - POWER
+AB  - In this paper, we investigate the effects on the economy of a feed-in tariff policy mechanism aimed to foster investments in renewable energy production capacity. To this purpose, we employ an enriched version of the agent-based Eurace macroeconomic model, where we have included an energy sector with a fossil-fuel power producer as well as a renewable-energy based one. Both power producers take pricing and capacity investment decisions based on the price of imported fossil fuel and the feed-in tariff government policy. Results show that the feed-in tariff policy is effective in fostering the sustainability transition of the energy sector and that it increases the level of investments with a positive impact on the unemployment rates. Moreover, we observe that its financing costs do not impact government finances, which actually improve following the better economic conditions. For high policy intensity, however, we observe an increasing GDP share of the investment sector in the economy, due to the building-up of renewable production capacity, with a resulting crowding out of consumption, higher interest rates and prices. The final outcome on household well-being therefore depends on what extent the chosen value judgment recognizes the importance of an economically and ecologically sustainable growth path.
+AD  - Univ Genoa, DIME CINEF, Via Opera Pia 15, I-16145 Genoa, ItalyAD  - Univ Jaume 1, Campus Riu Sec, Castellon de La Plana 12071, SpainAD  - Univ Ca Foscari Venice, Dept Econ, Cannaregio 873, I-30121 Venice, ItalyC3  - University of GenoaC3  - Universitat Jaume IC3  - Universita Ca Foscari VeneziaFU  - EU-FP7 collaborative project SYMPHONY16 [611875]
+FX  - The authors acknowledge EU-FP7 collaborative project SYMPHONY<SUP>16</SUP> under grant no. 611875. Moreover, the authors thank Franziska Schuetze from Global Climate Forum for the useful discussions.
+PU  - ELSEVIER SCIENCE BV
+PI  - AMSTERDAM
+PA  - PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN  - 0921-8009
+SN  - 1873-6106
+J9  - ECOL ECON
+JI  - Ecol. Econ.
+DA  - MAR
+PY  - 2018
+VL  - 145
+SP  - 274
+EP  - 300
+DO  - 10.1016/j.ecolecon.2017.08.022
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000424316700024
+N1  - Times Cited in Web of Science Core Collection:  96
+Total Times Cited:  102
+Cited Reference Count:  76
+ER  -
+
+TY  - JOUR
+AU  - Demartini, M
+AU  - Tonelli, F
+AU  - Govindan, K
+TI  - An investigation into modelling approaches for industrial symbiosis: A literature review and research agenda
+T2  - CLEANER LOGISTICS AND SUPPLY CHAIN
+LA  - English
+KW  - Industrial symbiosis
+KW  - Hybrid modelling and simulation approach
+KW  - Literature review
+KW  - System dynamics
+KW  - Agent -based modelling
+KW  - Research agenda
+KW  - CIRCULAR ECONOMY
+KW  - SIMULATION
+KW  - MANAGEMENT
+KW  - NETWORKS
+KW  - SYSTEM
+KW  - WASTE
+KW  - DYNAMICS
+KW  - BENEFITS
+KW  - EVALUATE
+KW  - SUSTAINABILITY
+AB  - Industrial symbiosis is a promising business model that pushes companies to move from linear production to a circular path. However, this transformation is complex because it requires companies to rethink and redesign their supply chains by considering the involvement of new stakeholders, the introduction of waste and their impact on product development, economic investments, and technological resources. As a result, companies need innovative modelling tools able to capture, investigate, and quantify the results of these changes and to work on the strategic planning, design, implementation, and management of their industrial symbiosis networks. This paper presents a systematic literature review to investigate the most used modelling approaches to analyse industrial symbiosis, and to research their characteristics in terms of simulation methods, interaction mechanisms, and simulations software. Findings from our research suggest that an Agent-Based System Dynamics hybrid approach is an appropriate method for industrial symbiosis design and analysis. The paper also presents a theoretical framework that aims at supporting researchers and practitioners approaching industrial symbiosis and, in conclusion, a research agenda is suggested for scholars.
+AD  - Univ Southern Denmark, SDU Ctr Sustainable Supply Chain Engn, Dept Technol & Innovat, Campusvej 55, Odense, DenmarkAD  - Univ Genoa, Dept Mech Energy Management & Transportat Engn, Via Opera Pia, Genoa, ItalyC3  - University of Southern DenmarkC3  - University of GenoaFU  - SDU-Direktionens Strategiske Pulje for project titled "SDG- Tools"
+FX  - This research was supported by a Grant from SDU-Direktionens Strategiske Pulje for project titled "SDG- Tools".
+PU  - ELSEVIER
+PI  - AMSTERDAM
+PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN  - 2772-3909
+J9  - CLEAN LOGIST SUPPL C
+JI  - Clean. Logist. Supply Chain
+DA  - MAR
+PY  - 2022
+VL  - 3
+C7  - 100020
+DO  - 10.1016/j.clscn.2021.100020
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001044649000011
+N1  - Times Cited in Web of Science Core Collection:  42
+Total Times Cited:  43
+Cited Reference Count:  96
+ER  -
+
+TY  - JOUR
+AU  - Raberto, M
+AU  - Ozel, B
+AU  - Ponta, L
+AU  - Teglio, A
+AU  - Cincotti, S
+TI  - From financial instability to green finance: the role of banking and credit market regulation in the Eurace model
+T2  - JOURNAL OF EVOLUTIONARY ECONOMICS
+LA  - English
+KW  - Green finance
+KW  - Capital requirements
+KW  - Energy efficiency
+KW  - Agent-based modeling
+KW  - ENDOGENOUS TECHNOLOGICAL-CHANGE
+KW  - FISCAL-POLICIES
+KW  - CLIMATE-CHANGE
+KW  - AGENT
+KW  - TRANSITION
+KW  - INVESTMENTS
+KW  - ECONOMICS
+AB  - We investigate appropriate banking and regulatory policies aimed at pushing the banking sector to shift from speculative lending, the cause of asset bubbles and economic crises, to green investments lending, so as to foster the transition to a more energy efficient production technology. For this purpose, we consider an enriched version of the Eurace model, which includes heterogenous capital goods, allowing for different degrees of energy efficiency in the production technology. Credit money in Eurace is endogenous and limited by Basel capital adequacy regulation on the supply side, while on the demand side it is determined by firms' investments and households' house purchasing. We introduce a differentiation of capital requirements according to the destination of lending, demanding higher bank capital in the case of speculative lending, thus encouraging banks to finance firm investment. As up-to-date capital goods have better energy efficiency in the model design, a higher pace of investment implies also a positive environmental effect. Results suggest that the proposed regulation is able to foster investments and capital accumulation in the short term, improving the energy efficiency of firms. However, reducing mortgages with a restrictive regulation has a negative impact on total private credit, and thus on endogenous money supply, weakening consumption and aggregate demand. In the long term, the contraction of total credit becomes stronger, and the negative outcomes on aggregate demand also affect investment. Therefore, in the long run, the positive effects on capital and energy efficiency become negligible, while the main economic indicators deteriorate.
+AD  - Univ Genoa, DIME, Genoa, ItalyAD  - Univ Jaume 1, Dept Econ, Castellon de La Plana, SpainAD  - LIUC Cattaneo Univ, Sch Engn, Castellanza, ItalyAD  - Ca Foscari Univ Venice, Dept Econ, Venice, ItalyC3  - University of GenoaC3  - Universitat Jaume IC3  - Universita Carlo Cattaneo - LiucC3  - Universita Ca Foscari VeneziaFU  - EU-FP7 collaborative project SYMPHONY [611875]
+FX  - The authors acknowledge EU-FP7 collaborative project SYMPHONY under grant no. 611875.
+PU  - SPRINGER
+PI  - NEW YORK
+PA  - 233 SPRING ST, NEW YORK, NY 10013 USA
+SN  - 0936-9937
+SN  - 1432-1386
+J9  - J EVOL ECON
+JI  - J. Evol. Econ.
+DA  - MAR
+PY  - 2019
+VL  - 29
+IS  - 1
+SP  - 429
+EP  - 465
+DO  - 10.1007/s00191-018-0568-2
+WE  - Social Science Citation Index (SSCI)AN  - WOS:000463714200013
+N1  - Times Cited in Web of Science Core Collection:  78
+Total Times Cited:  81
+Cited Reference Count:  66
+ER  -
+
+TY  - JOUR
+AU  - Collins, M
+AU  - Etzioni, S
+AU  - Ben-Elia, E
+TI  - Travel behavior and system dynamics in a simple gamified automated multimodal network
+T2  - TRANSPORTATION RESEARCH PART A-POLICY AND PRACTICE
+LA  - English
+KW  - Shared Automated Vehicles
+KW  - Ridesharing
+KW  - Reinforced Learning
+KW  - User Equilibrium
+KW  - System Optimum
+KW  - Serious Game
+KW  - DISCRETE-CONTINUOUS MODEL
+KW  - ROUTE-CHOICE DECISIONS
+KW  - PRE-TRIP INFORMATION
+KW  - AGENT-BASED MODEL
+KW  - HYPOTHETICAL BIAS
+KW  - BOTTLENECK MODEL
+KW  - VIRTUAL-REALITY
+KW  - AUTONOMOUS VEHICLES
+KW  - STOCHASTIC CAPACITY
+KW  - STATED PREFERENCE
+AB  - Automated Vehicles (AVs) are poised to disrupt travel patterns and the sustainability of transportation networks. Conventional methods for studying these changes, such as stated preference surveys and agent-based simulations, have limitations. Serious games offer a promising alternative, providing a controlled and engaging environment for investigating travel behavior. In our study, 200 participants, grouped into sessions of 10, engaged in a competitive serious game simulating 50 daily choices of travel mode and departure time across three automated options. Two scenarios were examined: one with recurring congestion and another with nonrecurring congestion. Automated transit had fixed schedules, while private and shared rides could adapt to a congested bottleneck. Results revealed that ridesharing dominated, reaching 60% mode share under recurring congestion, displacing transit, and a comparative equilibrium emerged between shared and private rides. In the nonrecurring congestion scenario, ridesharing dropped to 37%, and a comparable multimodal equilibrium developed. Participants rarely achieved the optimal score, attaining a maximum of 88% of its potential. This study highlights a policy paradox: unregulated AV traffic can reduce transit use, exacerbate recurring congestion, yet necessitate increased transit investment to address nonrecurring congestion, confirming the Downs-Thomson paradox. Creating appealing mass transit alternatives is imperative to ensure efficiency and sustainability in the era of automated mobility.
+AD  - Ben Gurion Univ Negev, Dept Environm Geoinformat & Urban Planning Sci, GAMESLab, Beer Sheva, IsraelAD  - Technion Israel Inst Technol, Fac Civil & Environm Engn, Haifa, IsraelC3  - Ben-Gurion University of the NegevC3  - Technion Israel Institute of TechnologyFU  - Israel Ministry of Transportation and Road Safety research project [Cycle 9/2016]; Institute for Transportation Innovation at Tel Aviv University research project [Cycle 2018]; Technion- Israel Institute of Technology; Israel Smart Transportation Research Center (ISTRC)
+FX  - Funding was provided by the Israel Ministry of Transportation and Road Safety research project "Adoption of the shared autonomous vehicle: A Game -based model of urban travelers and transportation system co -adaptation" (Grant Cycle 9/2016) ; the Institute for Transportation Innovation at Tel Aviv University research project "Game -Based Modeling of Societal Transition to MaaS" (Grant Cycle 2018) . The first author is thankful for the support of the Technion- Israel Institute of Technology. The first and second authors are grateful to the Israel Smart Transportation Research Center (ISTRC) student scholarships. Special thanks to Dr. Isabella Akkerman and Dr. Michael Dorman, who assisted in solving software and connectivity issues. Lastly, the comments and suggestions of two anonymous Reviewers are highly appreciated.
+PU  - PERGAMON-ELSEVIER SCIENCE LTD
+PI  - OXFORD
+PA  - THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN  - 0965-8564
+SN  - 1879-2375
+J9  - TRANSPORT RES A-POL
+JI  - Transp. Res. Pt. A-Policy Pract.
+DA  - MAY
+PY  - 2024
+VL  - 183
+C7  - 104060
+DO  - 10.1016/j.tra.2024.104060
+C6  - MAR 2024
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:001219187600001
+N1  - Times Cited in Web of Science Core Collection:  3
+Total Times Cited:  3
+Cited Reference Count:  195
+ER  -
+
+TY  - JOUR
+AU  - Zhang, JB
+AU  - Xie, YL
+AU  - Xin, XY
+AU  - Zhang, Y
+AU  - Guo, HC
+TI  - A risk-based energy-structure balance development model for restoring the sustainability of energy-economy-ecological complex system
+T2  - ECOLOGICAL ENGINEERING
+LA  - English
+KW  - Energy structure optimization
+KW  - Linkage policy intervention
+KW  - CVaR risk module
+KW  - Energy-dependent region
+KW  - Sustainability restoration
+KW  - STOCHASTIC-PROGRAMMING MODEL
+KW  - OPTIMIZATION MODEL
+KW  - CONDITIONAL VALUE
+KW  - POWER-SYSTEM
+KW  - MANAGEMENT
+KW  - DEMAND
+AB  - Faced with the degraded ecological environment, it is necessary to optimize the energy structure and interregional energy trade framework to achieve sustainable and balanced development. A RIMSP-based energy structure balance development model is proposed to solve the contradictions among energy consumption, economic system cost, and ecological emissions. In this study, the systemic risks and uncertainties are considered through integrating the Conditional Value at Risk module, Interval Programming, Multi-Stage stochastic Programming, and Integer Programming. A typical region with unbalanced energy endowments and economic development, Shanxi Province, China was investigated to illustrate the model applicability and superiority. It is found that the probability of system failures can be controlled within 1% and the most stable energy system will be found when risk weighted coefficient at 20. The optimal power generation schemes can be obtained for target power generation stage with compensation mechanism and for recourse power generation stage with substitution ratio of 20%, 15%, and 10% at three planning periods, respectively. The total installed capacity of clean energy is expected to reach approximately 41.4% by 2035. Wind power and solar power have more advantages than natural gas power in responding to flexible power demand and long-term sustainable requirements. In addition, the emissions of Particulate Matter, Sulfur Dioxide, Nitrogen Oxide, and Carbon Dioxide would be reduced to varying degrees. The results can provide a solid scientific basis for formulating balanced development policies to restore the ecological environment related to energy consumption.
+AD  - Peking Univ, Coll Environm Sci & Engn, Beijing 100871, Peoples R ChinaAD  - Guangdong Univ Technol, Key Lab City Cluster Environm Safety & Green Dev, Minist Educ, Inst Environm & Ecol Engn, Guangzhou 510006, Peoples R ChinaAD  - City Univ Hong Kong, Sch Energy & Environm, State Key Lab Marine Pollut, Kowloon, Hong Kong, Peoples R ChinaC3  - Peking UniversityC3  - Guangdong University of TechnologyC3  - City University of Hong KongFU  - Program for Guangdong Inno-vative and Entrepreneurial Research Team [2019ZT08L213]; Beijing Natural Science Foundation [9212001]; National Natural Science Foundation of China [51609003, 72074013]; National Key R&D project of China [2018YFC0213600]
+FX  - Acknowledgements This research was supported by the Program for Guangdong Inno-vative and Entrepreneurial Research Team (2019ZT08L213) , Beijing Natural Science Foundation (No. 9212001) , National Natural Science Foundation of China (No. 51609003 and No. 72074013) , and National Key R&D project of China (NO. 2018YFC0213600) .
+PU  - ELSEVIER
+PI  - AMSTERDAM
+PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN  - 0925-8574
+SN  - 1872-6992
+J9  - ECOL ENG
+JI  - Ecol. Eng.
+DA  - JUN
+PY  - 2022
+VL  - 179
+C7  - 106615
+DO  - 10.1016/j.ecoleng.2022.106615
+C6  - MAR 2022
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000792777500003
+N1  - Times Cited in Web of Science Core Collection:  8
+Total Times Cited:  8
+Cited Reference Count:  31
+ER  -
+
+TY  - CPAPER
+AU  - Dray, A
+AU  - Perez, P
+AU  - LePage, C
+AU  - D'Aquino, P
+AU  - White, I
+ED  - Zerger, A
+ED  - Argent, RM
+TI  - Companion Modelling approach: the AtollGame experience in Tarawa atoll (Republic of Kiribati)
+T2  - MODSIM 2005: INTERNATIONAL CONGRESS ON MODELLING AND SIMULATION: ADVANCES AND APPLICATIONS FOR MANAGEMENT AND DECISION MAKING: ADVANCES AND APPLICATIONS FOR MANAGEMENT AND DECISION MAKING
+LA  - English
+CP  - International Congress on Modelling and Simulation (MODSIM05)
+KW  - Role-playing game
+KW  - Companion Modelling
+KW  - Water Management
+KW  - Multi-Agent System
+KW  - Pacific
+AB  - Low coral islands are heavily dependent on groundwater for freshwater supplies. The availability, quality, and management of groundwater are central to sustainable development and poverty alleviation in many developing small island nations. The declaration by the Government of Kiribati of water reserves on the atoll of Tarawa, over privately owned land, has lead to conflicts, illegal settlements and vandalism of public assets. Beside, the water consumption per capita tends to increase towards western-like standards, threatening the sustainability of the actual exploitation system. Finally, pollution generated by the 45 000 habitants of South Tarawa has already contaminated all the freshwater lenses, with the exception of the existing reserves so far.
+   Our project, called AtollGame, aims at providing the relevant information to the local actors, including institutional and local community representatives in order to facilitate the dialogue and devise together sustainable and equitable water management practices. Multi-Agent Based Simulations (MABS) coupled with a Role-Playing Game have been implemented to fulfil this aim.
+   They have the potential to greatly reduce conflict over natural resource management and resource allocation. In order to collect, understand and merge viewpoints coming from different stakeholders, the following 3-stage methodology is applied: collecting local and expert knowledge, blending the different viewpoints into a game-based model, playing the game with the different stakeholders in order to explore different scenarii and their simulated outcomes.
+   Although game sessions delivered successful outcomes, the final stage of the project is characterised by the upheaval of contradictory Government stands that undermine the whole process. It is argued that heterogeneous viewpoints may be handled in a satisfactory manner during the gaming sessions, but that long-term hidden agendas may override the outcomes. Beyond the inherent question of legitimacy attached to such approaches, it is clear, from our experience, that some players - especially those representing Government or supra-national institutions - have to deal with constraints that are often genuinely first considered as external to the on-going negotiation process.
+AD  - CIRAD, Montpellier, FranceC3  - CIRADPU  - MODELLING & SIMULATION SOC AUSTRALIA & NEW ZEALAND INC
+PI  - CHRISTCHURCH
+PA  - MSSANZ, CHRISTCHURCH, 00000, NEW ZEALAND
+SN  - 978-0-9758400-2-3
+PY  - 2005
+SP  - 1601
+EP  - 1609
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000290114101094
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+Cited Reference Count:  17
+ER  -
+
+TY  - CPAPER
+AU  - Yao, P
+AU  - Lu, YH
+A1  - IEEE
+TI  - Simulation and Adjustment of System Dynamics on Sustainable Development of Coal City
+T2  - 7TH INTERNATIONAL CONFERENCE ON SYSTEM SIMULATION AND SCIENTIFIC COMPUTING ASIA SIMULATION CONFERENCE 2008, VOLS 1-3
+LA  - English
+CP  - Asia Simulation Conference/7th International Conference on System Simulation and Scientific Computing
+AB  - The coal city is a complex system composed of the subsystems such as population, resource, economic and environment. Sustainability in the coal city depends on the reasonable structure, development pattern of each subsystem and their effective adjustment. The concept of sustainability and the simulation method of system dynamics were combined, the system dynamics model for the coal city was built on the analysis of its' structure. The adjustment parameters such as procreate index, investment ratio of industry and resource recycling rate etc, were confirmed. The typical coal city of Jixi is taken as an example; five future development patterns were designed and run on the model. The simulated results indicate that the sustainable development pattern is the best development pattern for Jixi comparatively.
+AD  - Heilongjiang Inst Sci & Technol, Harbin, Peoples R ChinaC3  - Heilongjiang University of Science & TechnologyPU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-1-4244-1786-5
+PY  - 2008
+SP  - 1474
+EP  - 1481
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000263951700294
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  6
+ER  -
+
+TY  - JOUR
+AU  - Kloosterman, RA
+AU  - Herder, P
+AU  - van der Hoek, JP
+TI  - Enhancing the resilience of drinking water infrastructures
+T2  - INTERNATIONAL JOURNAL OF CRITICAL INFRASTRUCTURES
+LA  - English
+KW  - drinking water
+KW  - infrastructure
+KW  - resilience
+KW  - complex systems
+KW  - design principles
+KW  - water quantity
+KW  - water quality
+KW  - environmental impact
+KW  - long term planning
+KW  - Vitens
+KW  - SYSTEMS-OF-SYSTEMS
+KW  - SUSTAINABILITY
+KW  - NETWORKS
+AB  - Long term uncertainties in combination with long lifetime of assets of drinking water infrastructures (DWIs) and changing expectations of stakeholders make strategic decisions in drinking water infrastructures (DWIs) complex. A framework with building blocks and design spaces was developed to support these decisions. Building blocks, divided in governance and system properties, were generic resilience enhancing design principles found in literature. The design spaces were defined by characteristics (water quantity, water quality and environmental impact), and the scale dimension. The DWI design principles framework was operationalised in a case study. The case showed that the DWI design principles framework was useful for strategic issues and the results were recognised and accepted by a diverse group of stakeholders. It may also be possible to apply the framework for other water infrastructures with comparable characteristics and dimensions.
+AD  - Vitens, Oude Veerweg 1,Postbus 1205, NL-8001 BE Zwolle, NetherlandsAD  - Delft Univ Technol, Mekelweg 5, NL-2628 CD Delft, NetherlandsC3  - Delft University of TechnologyPU  - INDERSCIENCE ENTERPRISES LTD
+PI  - GENEVA
+PA  - WORLD TRADE CENTER BLDG, 29 ROUTE DE PRE-BOIS, CASE POSTALE 856, CH-1215 GENEVA, SWITZERLAND
+SN  - 1475-3219
+SN  - 1741-8038
+J9  - INT J CRIT INFRASTRU
+JI  - Int. J. Crit. Infrastruct.
+PY  - 2022
+VL  - 18
+IS  - 4
+SP  - 336
+EP  - 365
+DO  - 10.1504/IJCIS.2022.128095
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000909602100004
+N1  - Times Cited in Web of Science Core Collection:  3
+Total Times Cited:  3
+Cited Reference Count:  53
+ER  -
+
+TY  - CPAPER
+AU  - Schock, RN
+ED  - Ragaini, R
+TI  - ENERGY, CITIES, AND GLOBAL SUSTAINABILITY
+T2  - INTERNATIONAL SEMINAR ON NUCLEAR WAR AND PLANETARY EMERGENCIES: 45TH SESSION
+LA  - English
+CP  - 45th International Seminar on Nuclear War and Planetary Emergencies
+AB  - Arguably, the most acute energy emergency today is associated with the rapid growth of cities, most notably in Asia and Africa. The populations of all cities are growing rapidly, and two-thirds of the global population will live in large cities by 2050. Economic, political, and social entities are important elements of cities, which are complex systems in themselves, but energy issues tend to be afterthoughts. Energy in itself is a large and complex system and is the "glue" that holds an entire city system together, and energy must be integrated equally into the mix, in planning as well as execution. Energy's full integration provides an opportunity to substantially contribute to discussions and lead to city solutions going forward, and by extrapolation to the sustainability of the entire planet. Issues such as energy-efficient technologies, policies, regulations and their enforcement, energy services, and communication all need to be part of the solution. These problems are amenable to the new science of modelling and controllability of complex networks, with a real promise of new insights and the identification of unanticipated patterns and key control points using statistical physics and non-linear dynamics.
+   In working on energy and cities, it is important to interact with the entities already involved in other parts of the system. Productive interactions logically begin with the mayors of cities. Public-private partnerships already exist and the private sector must be engaged. The financial community is critical and capital investment firms must also be involved. Last but not least, national governments have a role to play by offering long-term technology development and financial incentives.
+AD  - World Energy Council, London, EnglandPU  - WORLD SCIENTIFIC PUBL CO PTE LTD
+PI  - SINGAPORE
+PA  - PO BOX 128 FARRER RD, SINGAPORE 9128, SINGAPORE
+SN  - 978-981-4531-77-1
+J9  - SCI CULT-NUCL STRAT
+PY  - 2013
+SP  - 291
+EP  - 299
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:000337104400024
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  17
+ER  -
+
+TY  - JOUR
+AU  - Tàbara, JD
+AU  - Mangalagiu, D
+AU  - Kupers, R
+AU  - Jaeger, CC
+AU  - Mandel, A
+AU  - Paroussos, L
+TI  - Transformative targets in sustainability policy making: the case of the 30% EU mitigation goal
+T2  - JOURNAL OF ENVIRONMENTAL PLANNING AND MANAGEMENT
+LA  - English
+KW  - EU climate policy
+KW  - system attractors
+KW  - macroeconomic modelling
+KW  - sustainability
+KW  - PUBLIC MANAGEMENT
+KW  - COMPLEXITY THEORY
+KW  - ECONOMICS
+AB  - This paper explores to what extent moving towards the 30% GHG emission reductions by 2020 with respect to 1990 in the EU can be considered a transformative target. To do so, we first define the concept of transformative targets from a complex systems perspective and show a novel approach and original results using an extended application of the GEM-E3 model. Traditional macroeconomic models cannot easily handle key synergetic system effects derived from green growth and sustainability policies, and thus require additional features. We analyse the role of semi-endogenous growth driven by learning-by-doing and low-carbon investment expectations following a long-term transformative trajectory.
+AD  - Autonomous Univ Barcelona, Global Climate Forum, E-08193 Cerdanyola Del Valles, Catalonia, SpainAD  - Autonomous Univ Barcelona, Inst Environm Sci & Technol, E-08193 Cerdanyola Del Valles, Catalonia, SpainAD  - Reims Management Sch, Paris, FranceAD  - Univ Oxford, Smith Sch Enterprise & Environm, Oxford OX1 2JD, EnglandAD  - Nijenrode Business Univ, Breukelen, NetherlandsAD  - Potsdam Inst Climate Impact Res, Potsdam, GermanyAD  - Univ Paris 01, F-75231 Paris 05, FranceAD  - Natl Tech Univ Athens, Energy Econ Modelling Lab E3M Lab, GR-10682 Athens, GreeceC3  - Autonomous University of BarcelonaC3  - Autonomous University of BarcelonaC3  - NEOMA Business SchoolC3  - University of OxfordC3  - Potsdam Institut fur KlimafolgenforschungC3  - heSam UniversiteC3  - Universite Pantheon-SorbonneC3  - National Technical University of AthensPU  - ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI  - ABINGDON
+PA  - 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN  - 0964-0568
+SN  - 1360-0559
+J9  - J ENVIRON PLANN MAN
+JI  - J. Environ. Plan. Manag.
+DA  - OCT 1
+PY  - 2013
+VL  - 56
+IS  - 8
+SP  - 1180
+EP  - 1191
+DO  - 10.1080/09640568.2012.716365
+WE  - Social Science Citation Index (SSCI)AN  - WOS:000327914100004
+N1  - Times Cited in Web of Science Core Collection:  12
+Total Times Cited:  13
+Cited Reference Count:  39
+ER  -
+
+TY  - JOUR
+AU  - Lintz, HE
+AU  - Gray, AN
+AU  - Yost, A
+AU  - Sniezko, R
+AU  - Woodall, C
+AU  - Reilly, M
+AU  - Hutten, K
+AU  - Elliott, M
+TI  - Quantifying density-independent mortality of temperate tree species
+T2  - ECOLOGICAL INDICATORS
+LA  - English
+KW  - Tree
+KW  - Population
+KW  - Indicator
+KW  - Species
+KW  - Mortality
+KW  - TURNOVER RATES
+KW  - GLOBAL-CHANGE
+KW  - BLISTER RUST
+KW  - CLIMATE
+KW  - FORESTS
+KW  - RESPONSES
+KW  - BIODIVERSITY
+KW  - DISTURBANCES
+KW  - ECOSYSTEMS
+KW  - PATTERNS
+AB  - Forest resilience to climate change is a topic of national concern as our standing assets and future forests are important to our livelihood. Many tree species are predicted to decline' or disappear while others may be able to adapt or migrate. Efforts to quantify and disseminate the current condition of forests are urgently needed to guide management and policy. Here, we develop a new indicator to summarize raw density-independent mortality of forested stands by species from the last decade of the 20th century to the first decade of the 21st century using forest inventory data. We define density-independent mortality to be stand mortality by species due to processes unrelated to natural mortality from succession or stand maturation, which is marked by overall increase in tree girth at the expense of density of individuals. We assess trends for 22 species on national forests in two U.S. states, Washington and Oregon. Populations of some species including timber species have no or low overall levels of density-independent mortality (Juniperus occidentalis, Abies procera, Thuja plicata, Tsuga heterophylla, Pinus ponderosa, and Pseudotsuga menziesii). In contrast, other species demonstrate unsustainable levels of density-independent mortality (Pinus monticola, Arbutus menziesii, Pinus albicaulis, Abies lasiocarpa, Taxus brevifolia, Pinus contorta, Abies grandis, Picea englemanii, and Larix occidentalis). Additionally, the net potential for unsustainable levels of density-independent mortality in standing populations does not necessarily warrant concern when examined across species for our study area and time period; however, when examined by species, the number of species in decline exceeds the number of species where mortality can be generally attributed to endogenous self-thinning. We argue that this work can aid management and policy decisions and our understanding of complex vegetation dynamics in a changing climate. Application of the indicator at larger spatial scales and in conjunction with data on migration and establishment may be used to address questions such as, how can we make cost-effective management decisions to ensure long-term sustainability of tree species and forests? Tree species distributions across the landscape are complex systems, and raw characterization of current trends occurring in forest inventories is important especially given the uncertainty associated with the modeling and prediction of complex systems such as tree species. (C) 2016 Published by Elsevier Ltd.
+AD  - Oregon State Univ, Coll Earth Ocean & Atmospher Sci, Oregon Climate Change Res Inst, Corvallis, OR 97330 USAAD  - USDA Forest Serv, PNW Res Stn, Corvallis, OR USAAD  - Oregon Dept Forestry, Salem, OR USAAD  - USDA Forest Serv, Dorena Genet Resource Ctr, Cottage Grove, OR USAAD  - USDA Forest Serv, Northern Res Stn, St Paul, MN USAAD  - Oregon State Univ, Dept Forest Ecosyst & Soc, Corvallis, OR 97331 USAAD  - Univ Washington, Dept Forest Ecol, Seattle, WA 98195 USAAD  - Washington State Univ, Puyallup Res & Extens Ctr, Puyallup, WA 98371 USAC3  - Oregon State UniversityC3  - United States Department of Agriculture (USDA)C3  - United States Forest ServiceC3  - United States Department of Agriculture (USDA)C3  - United States Forest ServiceC3  - United States Department of Agriculture (USDA)C3  - United States Forest ServiceC3  - Oregon State UniversityC3  - University of WashingtonC3  - University of Washington SeattleC3  - Washington State UniversityFU  - Oregon Department of Forestry; US Forest Service
+FX  - We thank Oregon Department of Forestry and the US Forest Service for funding this work.
+PU  - ELSEVIER
+PI  - AMSTERDAM
+PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN  - 1470-160X
+SN  - 1872-7034
+J9  - ECOL INDIC
+JI  - Ecol. Indic.
+DA  - JUL
+PY  - 2016
+VL  - 66
+SP  - 1
+EP  - 9
+DO  - 10.1016/j.ecolind.2015.11.011
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000388912300001
+N1  - Times Cited in Web of Science Core Collection:  13
+Total Times Cited:  22
+Cited Reference Count:  73
+ER  -
+
+TY  - JOUR
+AU  - Nguyen, TLA
+AU  - Le Vo, TH
+TI  - CSR implementation for the garment supply chain performance: a system dynamic approach
+T2  - SUPPLY CHAIN FORUM
+LA  - English
+KW  - CSR implementation
+KW  - garment supply chain
+KW  - SC performance
+KW  - system dynamics
+KW  - simulation
+KW  - CORPORATE SOCIAL-RESPONSIBILITY
+KW  - INDUSTRY
+KW  - SUSTAINABILITY
+KW  - COLLABORATION
+KW  - MANAGEMENT
+KW  - FRAMEWORK
+KW  - NETWORKS
+KW  - TEXTILE
+AB  - As a social and environmental-sensitive industry, garment firms are trying to implement corporate social responsibility (CSR) to cope with the increasing pressure of public concerns for globalised socially responsible supply chains (SC). We build such a model by using the System Dynamics (SD) approach. With the mechanism of mutual interactions between different variables of a complex system, our study examines different conditions of CSR implementation in the SC under which it is profitable for SC actors. Our sensitivity analysis demonstrates that when CSR implementation can stabilise market demand, firms' CSR investment is beneficial. Our study provides a theoretical and managerial foundation that may be used to strengthen the consideration of CSR engagement in the garment SC. By analysing the covariance of factors influencing decision making to implement CSR strategies, our approach allows SC managers to make CSR decisions and production management. Furthermore, the model provides tools for evaluating and forecasting the effectiveness of their CSR strategies according to industry specifics.
+AD  - Univ Rennes, CNRS, CREM, UMR 6211, Rennes, FranceAD  - Thai Nguyen Coll, Dept Res Management & Foreign Affairs, Thai Nguyen, Thai Nguyen, VietnamC3  - Centre National de la Recherche Scientifique (CNRS)C3  - CNRS - Institute for Humanities & Social Sciences (INSHS)C3  - Universite de RennesPU  - TAYLOR & FRANCIS LTD
+PI  - ABINGDON
+PA  - 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN  - 1625-8312
+SN  - 1624-6039
+J9  - SUPPLY CHAIN FORUM
+JI  - Supply Chain Forum
+DA  - OCT 1
+PY  - 2024
+VL  - 25
+IS  - 4
+SP  - 466
+EP  - 485
+DO  - 10.1080/16258312.2023.2296389
+C6  - JAN 2024
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001169233600001
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  48
+ER  -
+
+TY  - JOUR
+AU  - Hafner, S
+AU  - Jones, A
+AU  - Anger-Kraavi, A
+AU  - Pohl, J
+TI  - Closing the green finance gap - A systems perspective
+T2  - ENVIRONMENTAL INNOVATION AND SOCIETAL TRANSITIONS
+LA  - English
+KW  - Energy transition
+KW  - Green finance gap
+KW  - Low-carbon investments
+KW  - Green investment barriers review
+KW  - Systems thinking
+KW  - Complexity
+KW  - RENEWABLE ENERGY-POLICY
+KW  - FEED-IN TARIFFS
+KW  - WIND ENERGY
+KW  - SUSTAINABLE DEVELOPMENT
+KW  - INVESTMENT DECISIONS
+KW  - CLIMATE-CHANGE
+KW  - INSTITUTIONAL INVESTORS
+KW  - REGULATORY STABILITY
+KW  - CONCEPTUAL-FRAMEWORK
+KW  - POWER-GENERATION
+AB  - Meeting its climate policy objectives requires the UK to rapidly decarbonise its energy sector. This demands high levels of investments into low carbon energy infrastructure, which are currently not undertaken at required scale, leading to a green finance gap. We explore (1) key investment barriers, (2) a theoretical framework for investigation and (3) possible solutions, drawing on a review of academic literature and policy reports, and interviews conducted with financial investors and experts. Our study confirms that policy uncertainty and short-termism in the financial system are the two main investment barriers. Our results show that identified barriers form a complex system characterised by path-dependency, lock-in and non-linearity. We recommend the adoption of systems theory as an analytical framework to inform the related policy debate and propose the expansion or development of sustainable investment vehicles as a useful near-term solution while preparing a long-term policy intervention based on a systems perspective.
+AD  - Anglia Ruskin Univ, Global Sustainabil Inst, Cambridge, EnglandAD  - Univ Cambridge, Judge Business Sch, EPRG, Cambridge, EnglandC3  - Anglia Ruskin UniversityC3  - University of CambridgeFU  - Economic and Social Research Council for the Centre for the Understanding of Sustainable Prosperity (CUSP) (ESRC) [ES/M010163/1]; Economic and Social Research Council [ES/M010163/1] Funding Source: researchfish; ESRC [ES/M010163/1] Funding Source: UKRI
+FX  - The financial support of the Economic and Social Research Council for the Centre for the Understanding of Sustainable Prosperity (CUSP) (ESRC grant no: ES/M010163/1) is gratefully acknowledged. In addition with are grateful to all interview participants for the time and answers provided. We also thank the Institute and Faculty of Actuaries in London for including our online survey in their newsletter. Finally, we thank two anonymous reviewers for their helpful comments.
+PU  - ELSEVIER
+PI  - AMSTERDAM
+PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN  - 2210-4224
+SN  - 2210-4232
+J9  - ENVIRON INNOV SOC TR
+JI  - Environ. Innov. Soc. Trans.
+DA  - MAR
+PY  - 2020
+VL  - 34
+SP  - 26
+EP  - 60
+DO  - 10.1016/j.eist.2019.11.007
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000529365300004
+N1  - Times Cited in Web of Science Core Collection:  187
+Total Times Cited:  188
+Cited Reference Count:  216
+ER  -
+
+TY  - CPAPER
+AU  - Barazandeh, B
+AU  - Rafieisakhaei, M
+A1  - IEEE
+TI  - A Data Analytics Based Approach for Modeling the Effects of a Carbon Market on the Sustainable Control of CO2 Emissions in Latin America
+T2  - 2017 IEEE CONFERENCE ON TECHNOLOGIES FOR SUSTAINABILITY (SUSTECH 2017)
+LA  - English
+CP  - 5th Annual IEEE Conference on Technologies for Sustainability (SusTech)
+KW  - IMPACT
+AB  - Sustainability defines itself with preserving the natural resources, while maintaining a sustained rate of economic growth. Latin American countries are rich in natural resources and this has created an opportunity in exploiting the resources in order to gain economic advances. In particular, the newly rising economic powers in the region are attracting international investments in their oil exploration and production industries. Brazil, Venezuela and Columbia in South and Mexico in North America are among the largest Latin American oil producers of the world.
+   On the other hand, the increasingly concerning effects of the climate change phenomena has drawn significant attention towards methods of controlling the roots of the problem. An important cause as confirmed by the historic emissions data is the man-made Greenhouse Gas emissions resulting from excessive use of fossil fuels, and more importantly the carbon-intensive coal and oil. In this paper, we investigate the possible impacts of an emission control system on Latin American oil producers to control the rate of emissions through a financial market which is referred to as the carbon market. Variations of this system has successfully been implemented in the Europe and some states of the US, such as the state of California. Our approach is based on the system dynamics methodology where the main factors of a complex system are extracted and their causal relations are exploited to obtain mathematical models that can explain the behaviors of overall system. The general tools provided by the system dynamics approach for policy testing makes it very appealing for our purpose which is to test the effect of a carbon market on the Latin American producers. We extend our previous models to fit the Latin American economies focusing on the sustainability issues.
+AD  - Virginia Tech, Dept Ind & Syst Engn, Blacksburg, VA 24060 USAAD  - Texas A&M Univ, Dept Elect & Comp Engn, College Stn, TX 77840 USAC3  - Virginia Polytechnic Institute & State UniversityC3  - Texas A&M University SystemC3  - Texas A&M University College StationPU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 2640-6829
+SN  - 2640-6810
+SN  - 978-1-5386-0452-6
+J9  - IEEE CONF TECH SUST
+PY  - 2017
+SP  - 325
+EP  - 329
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000452178500052
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  33
+ER  -
+
+TY  - JOUR
+AU  - McCaskill, J
+AU  - Benavides, T
+AU  - Harrington, J
+TI  - Texas Public Pensions: A Common Pool Resource Perspective
+T2  - AMERICAN REVIEW OF PUBLIC ADMINISTRATION
+LA  - English
+KW  - public finance
+KW  - public pensions
+KW  - common pool resources
+KW  - fiscal resiliency
+AB  - Public employee pension management is the nexus of public and private financial management systems that are significant long-term components of public finance. The idea that these pension systems can look quite similar yet perform in quite different and conflicting ways is significant when designing policy; system design templates are not successful in complex systems. Even pension systems within the same city can have radically different states of actuarial health based upon small differences in the rules (or adherence to the rules) establishing them. To better understand such systems, viewing them from a common pool resource perspective is useful. Elinor Ostrom (1990), in her seminal book Governing the Commons, provides eight principles that facilitate governing common pool resources. The general theme running through Ostrom's principles is the need to facilitate the building and channeling of social capital. By facilitating constructive collective choice, the goal of effective, sustainable collective action is achievable. In this study, we examine the political, cultural, and institutional structures that are in place in the pension systems of Dallas and Houston, Texas. We examine the pensions' governance practices to determine which appear to violate Ostrom's ideal institutional arrangements and their impact on the pensions' long-term sustainability. Pertinent survey information from pension beneficiaries conducted as part of this research are provided
+AD  - Univ Texas Dallas, Dept Publ & Nonprofit Management, Richardson, TX 75080 USAC3  - University of Texas SystemC3  - University of Texas DallasPU  - SAGE PUBLICATIONS INC
+PI  - THOUSAND OAKS
+PA  - 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN  - 0275-0740
+SN  - 1552-3357
+J9  - AM REV PUBLIC ADM
+JI  - Amer. Rev. Public Adm.
+DA  - NOV
+PY  - 2024
+VL  - 54
+IS  - 8
+SP  - 771
+EP  - 781
+DO  - 10.1177/02750740241273976
+C6  - AUG 2024
+WE  - Social Science Citation Index (SSCI)AN  - WOS:001307512100001
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  27
+ER  -
+
+TY  - JOUR
+AU  - Roy, BB
+AU  - Tu, QS
+TI  - A review of system dynamics modeling for the sustainability assessment of biorefineries
+T2  - JOURNAL OF INDUSTRIAL ECOLOGY
+LA  - English
+KW  - bioeconomy
+KW  - biorefinery
+KW  - industrial ecology
+KW  - life cycle assessment
+KW  - system dynamics
+KW  - techno-economic analysis
+KW  - LIFE-CYCLE
+KW  - SUPPLY CHAIN
+KW  - BIOENERGY SYSTEM
+KW  - BIODIESEL POLICY
+KW  - FOREST RESIDUES
+KW  - ETHANOL
+KW  - BIOFUELS
+KW  - PULP
+AB  - Bioeconomy has been incorporated into the national strategy for sustainable development by many countries, and the concept of biorefinery has been considered as one of the essential components of such strategies. The environmental, economic, and social implications of a biorefinery hinge upon both the endogenous interactions among its supply chain components and their responses to the exogenous factors. The system dynamics (SD) modeling approach is suitable for understanding such complex systems. This study provides a state-of-the-art review of the methodological assumptions of existing SD studies relevant to the sustainability of biorefineries. Among the reviewed studies, common supply chain components of a biorefinery were feedstock supply, biomass conversion, market demand, distribution, and use of bioproducts. Components of a supply chain are interlinked through feedback loops. For instance, the preference for bioproduct use increases the corresponding market demand, which attracts more investment in biorefineries and changes the supply of feedstock. Exogenous variables investigated by the reviewed studies cover the market demand, population growth, GDP change, imposed regulations and incentives to evaluate endogenous factors such as the price of biomass and biofuel, change in land-use pattern, and fuel or energy choices of consumers. Through analyzing the methodological assumptions, we also identified several limitations of the models/frameworks in the existing literature, including (1) the lack of a mechanism to represent the complex interactions within the supply chain of a biorefinery with a diverse product portfolio, and (2) the lack of feedback loops incorporating the environmental (e.g., via life cycle assessment), economic (e.g., via techno-economic analysis), and social (e.g., via social life cycle assessment) influences into the interactions among supply chain components. Accordingly, we proposed a recommendation for methodology development to address these limitations.
+AD  - Univ British Columbia, Dept Wood Sci, Sustainable Bioecon Res Grp, Vancouver, BC V6T 1Z4, CanadaC3  - University of British ColumbiaFU  - Natural Sciences and Engineering Research Council of Canada [RGPIN-2021-02841]
+FX  - Natural Sciences and Engineering Research Council of Canada, Grant/Award Number: RGPIN-2021-02841
+PU  - WILEY
+PI  - HOBOKEN
+PA  - 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN  - 1088-1980
+SN  - 1530-9290
+J9  - J IND ECOL
+JI  - J. Ind. Ecol.
+DA  - AUG
+PY  - 2022
+VL  - 26
+IS  - 4
+SP  - 1450
+EP  - 1459
+DO  - 10.1111/jiec.13291
+C6  - MAY 2022
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000795964900001
+N1  - Times Cited in Web of Science Core Collection:  5
+Total Times Cited:  5
+Cited Reference Count:  47
+ER  -
+
+TY  - BOOK
+AU  - Cavaleri, S
+AU  - Friedman, S
+A1  - Informat Resources Management Assoc
+TI  - Effects of Free Goods on Market Sustainability
+T2  - OPEN SOURCE TECHNOLOGY: CONCEPTS, METHODOLOGIES, TOOLS, AND APPLICATIONS
+LA  - English
+KW  - FINANCIAL CRISIS
+AB  - Various types of 'bubbles', e.g. stock market, housing, dot.com, high-tech, historically, are commonly-observed phenomena in complex systems. Yet, their emergence often surprises people who remain unaware of history or their systemic roots. Bubbles are often considered to be simply the product of unwise speculative investments or social mania. Alternatively, conventional economic theories often consider factors, such as interest rates, to be the trigger. However, economic theories rarely account for the systemic structure of markets or for non-linear dynamics. The authors propose that special cases may emerge in some markets to trigger instability. Specifically, when minimal interest rates and capital requirements (down payments) are become extremely low a perceptual shift occurs among consumers such that they become viewed as approximate free goods. This paper proposes that unwise economic policies may activate a free goods scenario initiating a cascading series of destabilizing events leading to market collapse. The authors propose hypothesize that such incendiary policies caused both the 1929 stock market crash and the 2008 subprime housing crisis in the United States. To more deeply examine this claim, these policies were tested using a system dynamics model based on data from both the 1929 and 2008 crises. The model simulated and tested the effects of alternative rate policies on market dynamics. Some of the rates and down payments used in both crises set off tsunami-like shock waves through markets leading to their sudden collapse in these simulations. Based on the findings of this study, found that economic policies lessened market stability. The authors propose several revisions to these policies to foster greater market sustainability.
+AD  - Cent Connecticut State Univ, New Britain, CT 06050 USAAD  - Univ St Joseph, Hartford, CT USAC3  - Connecticut State University SystemC3  - Central Connecticut State UniversityPU  - IGI GLOBAL
+PI  - HERSEY
+PA  - 701 E CHOCOLATE AVE, STE 200, HERSEY, PA 17033-1240 USA
+SN  - 978-1-4666-7231-4
+SN  - 978-1-4666-7230-7
+PY  - 2015
+SP  - 1143
+EP  - 1177
+DO  - 10.4018/978-1-4666-7230-7.ch056
+DO  - 10.4018/978-1-4666-7230-7
+WE  - Book Citation Index – Social Sciences & Humanities (BKCI-SSH)WE  - Book Citation Index – Science (BKCI-S)AN  - WOS:000442905400057
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  30
+ER  -
+
+TY  - JOUR
+AU  - Awah, LS
+AU  - Nyam, YS
+AU  - Belle, JA
+AU  - Orimoloye, IR
+TI  - A system archetype approach to identify behavioural patterns in flood risk management: Case study of Cameroon
+T2  - ENVIRONMENTAL DEVELOPMENT
+LA  - English
+KW  - Flood risk management
+KW  - System archetypes
+KW  - Flood policies
+KW  - Coastal community resilience
+KW  - Cameroon
+KW  - DISASTER
+KW  - REDUCTION
+KW  - LIMBE
+KW  - RESILIENCE
+KW  - LANDSLIDE
+KW  - FRAMEWORK
+AB  - Flood risk is a global phenomenon affecting developed and less developed countries alike. Although developed countries are better equipped to handle the consequences of flood events due to investments in disaster risk reduction measures, less developed countries are struggling to cope with this challenge. This can be attributed to the complexities of managing floods while ensuring environmental sustainability, which are yet to be fully understood. As such, developing strategies to manage floods, adapt, and build resilience requires understanding the complex relationships between socioeconomic, environmental, and infrastructural factors to promote policy development in sustainable flood risk management. System archetypes provide a framework for understanding complex system behaviour and assessment of intended and unintended consequences of policy actions. Using the coastal city of Limbe as a case study, this paper identified and analysed four key system archetypes that define flood risk management in Limbe;- 'fixes that fail', 'shifting the burden', 'limits to growth/success' and 'growth and under-investment'. Findings from the study underscore that policy availability does not directly translate to policy implementation and that Limbe's operational policies prioritise quick fixes for flood symptoms, often leading to unintended consequences, emphasizing the need for adaptive, flexible policies. Some leverage points are discussed to improve the sustainable management of floods and advocate for policies that consider long-term sustainability within its urban planning system, considering future urban and population growth to ensure sustainability in the short, medium, and long run.
+AD  - Univ Free State, Disaster Management Training & Educ Ctr Africa, ZA-9300 Bloemfontein, South AfricaAD  - Western Michigan Univ, Sch Environm Geog & Sustainabil, Kalamazoo, MI 49008 USAC3  - University of the Free StateC3  - Western Michigan UniversityFU  - European Union-sponsored project Fostering Research & Intra-African Mobility & Education (FRAME) [FRAM2000567]
+FX  - The authors would like to acknowledge and appreciate the European Union-sponsored project Fostering Research & Intra-African Mobility & Education (FRAME) , reference number (FRAM2000567) , for the financial support in executing this research.
+PU  - ELSEVIER
+PI  - AMSTERDAM
+PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN  - 2211-4645
+SN  - 2211-4653
+J9  - ENVIRON DEV
+JI  - Environ. Dev.
+DA  - SEP
+PY  - 2024
+VL  - 51
+C7  - 101026
+DO  - 10.1016/j.envdev.2024.101026
+C6  - JUL 2024
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001267597500001
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+Cited Reference Count:  96
+ER  -
+
+TY  - JOUR
+AU  - Soongpol, B
+AU  - Netinant, P
+AU  - Rukhiran, M
+TI  - Practical Sustainable Software Development in Architectural Flexibility for Energy Efficiency Using the Extended Agile Framework
+T2  - SUSTAINABILITY
+LA  - English
+KW  - agile
+KW  - aspect-oriented
+KW  - energy efficiency
+KW  - flexibility
+KW  - framework
+KW  - layering
+KW  - software development
+KW  - sustainability
+AB  - Many regular business operations are transforming into digital services, increasing advanced multi-platforms, rapid operational alignment, flexibility, and environmental impact through energy consumption, hardware waste, and technology investments. Flexible and sustainable system development models emphasizing energy efficiency can help innovate software development as digital servicing applications shift. This research is motivated by the need to improve energy consumption in early software design and development due to rising technological efficiency and sustainability demands. Although effective in iterative development and stakeholder engagement, traditional Agile methodologies often struggle with long-term sustainability and energy efficiency. Extended Agile, combining Agile, layered architecture, and aspect-oriented frameworks (ALAI), promises to improve system modularity, flexibility, maintainability, and sustainability. This study's findings are not just theoretical, but also practically relevant, as they explore the energy efficiency of ALAI software development methodologies, using graduate admission information system services (GAISS) as an example. GAISS is a complex system that handles the entire process of graduate admissions, from application submission to final decision. The study quantifies the energy usage of a student-list webpage by analyzing Microsoft IIS server logs from February 2022 to May 2024. Directly applicable findings show that the GAISS based on the ALAI framework reduces energy consumption by 10.7914% compared to traditional Agile software developments. ALAI used 892.80 kWh versus Agile's 1000.80 kWh during operations, saving energy. These findings demonstrate the benefits of integrating aspect-oriented frameworks and layering approaches into Agile methodologies, contributing to sustainable software development discourse. The study emphasizes the importance of energy-efficient frameworks such as ALAI to reduce software systems' environmental impact and promote software development sustainability. The findings of this study, with their practical relevance, assist software developers and organizations in choosing software design and development methods that maximize operational efficiency and environmental sustainability.
+AD  - Rangsit Univ, Coll Digital Innovat Technol, Pathum Thani 12000, ThailandAD  - Rajamangala Univ Technol Tawan Ok, Fac Social Technol, Chanthaburi 20110, ThailandC3  - Rangsit UniversityC3  - Rajamangala University of Technology Tawan-okPU  - MDPI
+PI  - BASEL
+PA  - ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN  - 2071-1050
+J9  - SUSTAINABILITY-BASEL
+JI  - Sustainability
+DA  - JUL
+PY  - 2024
+VL  - 16
+IS  - 13
+C7  - 5738
+DO  - 10.3390/su16135738
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:001269709400001
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+Cited Reference Count:  92
+ER  -
+
+TY  - JOUR
+AU  - Yang, YX
+AU  - Zheng, XY
+AU  - Sun, Z
+TI  - Coal Resource Security Assessment in China: A Study Using Entropy-Weight-Based TOPSIS and BP Neural Network
+T2  - SUSTAINABILITY
+LA  - English
+KW  - entropy-weight-based TOPSIS
+KW  - BP neural network
+KW  - coal resources security
+KW  - indicator system of evaluation
+KW  - ENERGY SECURITY
+KW  - MODEL
+KW  - DIVERSIFICATION
+KW  - TRADE
+AB  - Energy security has become a worldwide issue in recent years. Coal resources security (CRS), an important part of energy security, has been an emerging concern in many countries, due to the diminishing fossil energy reserve and unbalanced energy structure. However, there is no universally agreed method of constructing indicator system for CRS assessment. Subjectivity in the process of evaluation also affects the results of assessment. Moreover, CRS is a complex system that should be evaluated scientifically under diverse methods. Therefore, we constructed an indicator system and evaluation model of CRS and used a case study of China and 31 provinces in its mainland to evaluate CRS at both national and provincial levels. The indicator system included two subsystems-long-term CRS and short-term CRS. We also chose a few elements and factors that are consistent with China's reality. Different research methods were used: the entropy-weight-based TOPSIS (Technique for Order Preference by Similarity to an Ideal Solution) method is applied to evaluate the degree of CRS, which avoids the subjectivity of weight determination and reflects the relative merit of each indicator; the BP (Back-Propagation) Neural Network method is used to analyze the sensitivity of CRS to each index. The results show that the national level of CRS dropped in the early years but slowly picked up with the help of government intervention. Investment in coal industry development resulted in the immediate effect of improving CRS. The positive impact of maintaining environmental sustainability is stable over either the short, medium, or long term. The degrees of CRS vary significantly across provinces, even between those with similar coal stock levels. Extra attention should be paid to the transportation of coal resources among provinces and intervention to balance supply and demand within the regions.
+AD  - China Univ Min & Technol Beijing, Sch Management, Beijing 100083, Peoples R ChinaAD  - Univ Int Business & Econ, Sch Finance, Beijing 100029, Peoples R ChinaC3  - China University of Mining & TechnologyC3  - University of International Business & EconomicsFU  - Major Program of National Social Science Foundation of China [18ZDA079]; National Key R&D Program of China [2018YFF0214804]
+FX  - This work is supported by the Major Program of National Social Science Foundation of China No.18ZDA079 and the National Key R&D Program of China, 2018YFF0214804.
+PU  - MDPI
+PI  - BASEL
+PA  - ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN  - 2071-1050
+J9  - SUSTAINABILITY-BASEL
+JI  - Sustainability
+DA  - MAR 2
+PY  - 2020
+VL  - 12
+IS  - 6
+C7  - 2294
+DO  - 10.3390/su12062294
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000523751400141
+N1  - Times Cited in Web of Science Core Collection:  21
+Total Times Cited:  22
+Cited Reference Count:  39
+ER  -
+
+TY  - JOUR
+AU  - Clements, HS
+AU  - Cumming, GS
+TI  - Traps and transformations influencing the financial viability of tourism on private-land conservation areas
+T2  - CONSERVATION BIOLOGY
+LA  - English
+KW  - adaptive capacity
+KW  - command and control
+KW  - mechanistic model
+KW  - natural resource management
+KW  - path dependence
+KW  - private protected area
+KW  - social-ecological feedback
+KW  - vulnerability
+KW  - NATURAL-RESOURCE MANAGEMENT
+KW  - ORGANIZATIONAL ECOLOGY
+KW  - SOUTH-AFRICA
+KW  - VEGETATION
+KW  - BIODIVERSITY
+KW  - OBJECTIVES
+KW  - RAINFALL
+KW  - KAROO
+KW  - SIZE
+AB  - The ability of private conservation organizations to remain financially viable is a key factor influencing their effectiveness. One-third of financially motivated private-land conservation areas (PLCAs) surveyed in South Africa are unprofitable, raising questions about landowners' abilities to effectively adapt their business models to the socioeconomic environment. In any complex system, options for later adaptation can be constrained by starting conditions (path dependence). We tested 3 hypothesized drivers of path dependence in PLCA ecotourism and hunting business models: (H1) the initial size of a PLCA limits the number of mammalian game and thereby predators that can be sustained; (H2) initial investments in infrastructure limit the ability to introduce predators; and (H3) rainfall limits game and predator abundance. We further assessed how managing for financial stability (optimized game stocking) or ecological sustainability (allowing game to fluctuate with environmental conditions) influenced the ability to overcome path dependence. A mechanistic PLCA model based on simple ecological and financial rules was run for different initial conditions and management strategies, simulating landowner options for adapting their business model annually. Despite attempts by simulated landowners to increase profits, adopted business models after 13 years were differentiated by initial land and infrastructural assets, supporting H1 and H2. A conservation organization's initial assets can cause it to become locked into a financially vulnerable business model. In our 50-year simulation, path dependence was overcome by fewer of the landowners who facilitated natural ecological variability than those who maintained constant hunting rates and predator numbers, but the latter experienced unsustainably high game densities in low rainfall years. Management for natural variability supported long-term ecological sustainability but not shorter term socioeconomic sustainability for PLCAs. Our findings highlight trade-offs between ecological and economic sustainability and suggest a role for governmental support of the private conservation industry.
+AD  - Univ Cape Town, DST NRF Ctr Excellence, Percy FitzPatrick Inst, ZA-7701 Cape Town, South AfricaAD  - Monash Univ, Sch Biol Sci, Melbourne, Vic 3800, AustraliaAD  - James Cook Univ, ARC Ctr Excellence Coral Reef Studies, Townsville, Qld 4811, AustraliaC3  - National Research Foundation - South AfricaC3  - University of Cape TownC3  - Monash UniversityC3  - James Cook UniversityC3  - ARC Centre of Excellence for Coral Reef StudiesFU  - James S. McDonnell Foundation Complexity Scholar grant; GreenMatter; Harry Crossley Fellowship; National Research Foundation (NRF-DAAD) scholarship; DST-NRF Centre of Excellence at the Percy Fitz-Patrick Institute, University of Cape Town; ARC Centre of Excellence for Coral Reef Studies, James Cook University
+FX  - We thank participating landowners and managers for their time and hospitality and 3 reviewers for valuable comments on this manuscript. We thank the ARS AfricaE team for useful discussions during the Interdisciplinary Workshop on Ecological Modelling in 2015, and A. Lubbe for advice on the model's financial parameters. This research was funded by a James S. McDonnell Foundation Complexity Scholar grant to G.C., GreenMatter; Harry Crossley Fellowship and National Research Foundation (NRF-DAAD) scholarship to H.C. Additional support came from the DST-NRF Centre of Excellence at the Percy Fitz-Patrick Institute, University of Cape Town, and the ARC Centre of Excellence for Coral Reef Studies, James Cook University.
+PU  - WILEY
+PI  - HOBOKEN
+PA  - 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN  - 0888-8892
+SN  - 1523-1739
+J9  - CONSERV BIOL
+JI  - Conserv. Biol.
+DA  - APR
+PY  - 2018
+VL  - 32
+IS  - 2
+SP  - 424
+EP  - 436
+DO  - 10.1111/cobi.12999
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000428319600017
+N1  - Times Cited in Web of Science Core Collection:  12
+Total Times Cited:  12
+Cited Reference Count:  42
+ER  -
+
+TY  - JOUR
+AU  - Svartzman, R
+AU  - Bolton, P
+AU  - Despres, M
+AU  - Da Silva, LAP
+AU  - Samama, F
+TI  - Central banks, financial stability and policy coordination in the age of climate uncertainty: a three-layered analytical and operational framework
+T2  - CLIMATE POLICY
+LA  - English
+KW  - Climate risk management
+KW  - socio-technical contexts
+KW  - macroeconomic effects
+KW  - mitigation scenarios
+KW  - financial viability
+KW  - complex systems
+AB  - This paper explores how climate change and the transition to a low-carbon economy pose new systemic financial risks (so-called Green Swans), and the role of central banks in addressing them within their financial stability mandate. It does so by developing a three-layered analytical framework that central banks could use to shape their climate-related monetary and financial policies. First, central banks have already started to revisit their backward-looking risk models for the purpose of integrating forward-looking climate-related risks. Second, given the limitations of existing climate-economy models in a context of radical uncertainty, we argue that future climate scenario analysis should rely on systems-based approaches such as non-equilibrium models and more qualitative tools such as those provided by a socio-technical perspective. However, even these new approaches will not suffice from the perspective of financial stability: climate-related risks will remain largely unhedgeable as long as a system-wide and structural transformation is not undertaken, including an unprecedented level of cooperation between central banks, fiscal authorities, the private and public sectors at large, civil society, and the international community. Third, and as a result of the first two points, embracing climate-related uncertainty means that central banks play a new role: helping to coordinate the policies needed to fight climate change, so as to fulfil their own mandate of financial stability. To this end, we make a few specific policy proposals.
+   Key policy insights
+   Central banks' traditional risk models do not enable them to identify climate-related systemic risks (Green Swans).
+   Adopting new forward-looking and non-equilibrium modelling approaches is necessary to better appreciate the nature of climate-related risks, but it is not sufficient.
+   To continue fulfilling their mandate of financial stability over longer time horizons than those traditionally considered, central banks must also get involved in policy coordination to mitigate climate change.
+   This includes exploring which policy mixes (fiscal-monetary-prudential) can better address the climate imperatives ahead; considering climate stability as a global public good to be supported through reforms of the international monetary and financial system; and systematizing the integration of long-term sustainability criteria in both private and public sectors.
+AD  - Banque France, Paris, FranceAD  - McGill Univ, Montreal, PQ, CanadaAD  - Columbia Univ, New York, NY USAAD  - Imperial Coll, London, EnglandAD  - Bank Int Settlements BIS, Basel, SwitzerlandAD  - Amundi Grp, CPR, Paris, FranceC3  - European Central BankC3  - Bank of FranceC3  - McGill UniversityC3  - Columbia UniversityC3  - Imperial College LondonC3  - Bank for International Settlements (BIS)PU  - TAYLOR & FRANCIS LTD
+PI  - ABINGDON
+PA  - 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN  - 1469-3062
+SN  - 1752-7457
+J9  - CLIM POLICY
+JI  - Clim. Policy
+DA  - APR 21
+PY  - 2021
+VL  - 21
+IS  - 4
+SP  - 563
+EP  - 580
+DO  - 10.1080/14693062.2020.1862743
+C6  - DEC 2020
+WE  - Social Science Citation Index (SSCI)AN  - WOS:000603920700001
+N1  - Times Cited in Web of Science Core Collection:  62
+Total Times Cited:  65
+Cited Reference Count:  131
+ER  -
+
+TY  - JOUR
+AU  - Haygarth, PM
+AU  - Ritz, K
+TI  - The future of soils and land use in the UK: Soil systems for the provision of land-based ecosystem services
+T2  - LAND USE POLICY
+LA  - English
+KW  - Soil
+KW  - Soil science
+KW  - Land
+KW  - Land use
+KW  - Planning
+KW  - Ecosystem services
+KW  - Soil function
+KW  - Soil quality
+KW  - PHOSPHORUS
+KW  - CARBON
+KW  - BIODIVERSITY
+KW  - DYNAMICS
+KW  - NITROGEN
+KW  - EUROPE
+KW  - HEALTH
+KW  - SIZE
+AB  - Historically, soils have always underpinned civilisation. Their role is fundamental to the provision of food and water, along with a wide range of ecosystem goods and services. Soils are arguably the most complex systems oil Earth, and are intimately linked to human security and the integrity of the wider environment. In this paper we propose 18 ecosystem services that are critical for soils and land use in the UK. Soils are extremely heterogeneous and not all soils can fulfil the full spectrum of services required for the future of the UK, so there is a need to protect their Multifunctional attributes in order to preserve national and international natural capital. There are concerns that anthropogenically induced changes in land use or management will result ill Soils not being utilised to provide the functions to which they are best suited. For example, soils primarily suited for food Supply may be given over to Provide a platform for construction. This is ail all-pervading and recurring concern and highlights the importance of critical decisions, thresholds and potential 'tipping points'. Once critical soil functions are lost they are irrecoverable, potentially for millennia, representing a loss of resource that is fundamental to the UK's national livelihood and well-being. Pressures from changes in climate and to the Earth system will bring about complex and systematic change to soils and their abilities to provide essential functions. We therefore recommend national needs for ensuring the sustainability for soils and future land use in the UK. They are to maintain the long-term base for soil science through education and intellectual investment. including communication of the value of soils and land as natural capital; to manage soil resources so that multifunctionality prevails and critical tipping points are avoided; to audit the national soil resource through soil mapping; preparation of appropriate databases and provision of long-term monitoring networks and observatories; and to synthesise adaptable predictive frameworks for soil system science through integrated modelling. (C) 2009 Queen's Printer and Controller of HMSO. Published by Elsevier Ltd. All rights reserved.
+AD  - Univ Lancaster, Ctr Sustainable Water Management, Lancaster Environm Ctr, Lancaster LA1 4YQ, EnglandAD  - Cranfield Univ, Natl Soil Resources Inst, Dept Nat Resources, Sch Appl Sci, Cranfield MK43 0AL, Beds, EnglandC3  - UK Centre for Ecology & Hydrology (UKCEH)C3  - Lancaster UniversityC3  - Cranfield UniversityPU  - ELSEVIER SCI LTD
+PI  - OXFORD
+PA  - THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN  - 0264-8377
+SN  - 1873-5754
+J9  - LAND USE POLICY
+JI  - Land Use Pol.
+DA  - DEC
+PY  - 2009
+VL  - 26
+SP  - S187
+EP  - S197
+DO  - 10.1016/j.landusepol.2009.09.016
+WE  - Social Science Citation Index (SSCI)AN  - WOS:000275223500021
+N1  - Times Cited in Web of Science Core Collection:  152
+Total Times Cited:  168
+Cited Reference Count:  80
+ER  -
+
+TY  - JOUR
+AU  - Chiang, KL
+TI  - Optimizing Warehouse Building Design for Simultaneous Revenue Generation and Carbon Reduction in Taiwan: A Fuzzy Nonlinear Multi-Objective Approach
+T2  - BUILDINGS
+LA  - English
+KW  - low-carbon development
+KW  - warehouse buildings
+KW  - fuzzy nonlinear multi-objective model
+KW  - decision-making
+KW  - fuzzy modified internal rate of return
+AB  - Taiwan's encouragement of installing solar photovoltaic power plants (SPPPs) on warehouse rooftops is a step towards sustainability and profitable investment. This study, analyzing the installations of STY Company, found that rooftop SPPPs significantly boost revenue, with rates increasing from 2.0088% to 6.8681% over 20 years. The break-even point is in the 7th year, with a return rate ranging from 2.0088 to 2.1748%. This shows that SPPP investments are a benefit for investors, shortening construction times and allowing warehouses to sell solar energy at an earlier date. This research utilized a fuzzy nonlinear multi-objective programming model to examine trade-offs between construction time, cost, quality, and revenue (TCQR) to optimize SPPP construction. The findings suggest that reducing construction time is an effective strategy to lower carbon emissions despite potential cost increases. However, time and quality costs are inversely proportional, highlighting the importance of efficient project management in minimizing the impacts of this trade-off. Adjusting funding can maintain quality while speeding up construction. Completing projects early also heightens revenue from green energy sales, offsetting higher initial investments. The TCQR focuses on investment revenue, managing time efficiently, and making data-driven decisions to expedite SPPP development. This model improves project profitability and promotes sustainable growth by reducing construction time and optimizing financial strategies. This study's contribution includes: 1. Optimizing the installation process of warehouse rooftop SPPPs, which provide significant long-term revenue and environmental benefits. 2. Combining the different research methods of scholars into fuzzy methods that can solve complex systems with high uncertainty. The nonlinear model put forth by this study is closer to the actual situation and can handle balancing complex problems in multi-objective programming. 3. Improving the efficiency of time management to make it feasible to reduce construction time to lower carbon emissions. 4. Concocting a comprehensive approach integrating financial, environmental, and operational factors for successful SPPP development. This study addresses an academic gap. Previously, scholars conducted research independently, focusing solely on financial investment or time, cost, and quality (TCQ) issues without considering the two together. By combining financial investment with TCQ, this study fills a significant gap in academic research. According to this study, better investment returns could improve the promotion of solar energy. Unlike previous research, this study integrates the analysis of TCQ with that of revenue by assessing costs and revenues together. This approach allows decision-makers to derive judgments from the TCQR model quickly.
+AD  - China Univ Technol, Dept Mkt & Logist, Taipei City 116, TaiwanPU  - MDPI
+PI  - BASEL
+PA  - ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN  - 2075-5309
+J9  - BUILDINGS-BASEL
+JI  - BUILDINGS-BASEL
+DA  - AUG
+PY  - 2024
+VL  - 14
+IS  - 8
+C7  - 2441
+DO  - 10.3390/buildings14082441
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001305121100001
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+Cited Reference Count:  33
+ER  -
+
+TY  - JOUR
+AU  - Gul-E-Hina
+AU  - Haydar, S
+TI  - A system dynamics model and analytical hierarchy process: an integrated approach for achieving sustainable solid waste management system
+T2  - ENVIRONMENTAL SCIENCE AND POLLUTION RESEARCH
+LA  - English
+KW  - Complex systems
+KW  - Technical sustainability
+KW  - Financial sustainability
+KW  - Sustainable policies
+KW  - User fee
+KW  - Decision-making methods
+KW  - MULTICRITERIA DECISION-MAKING
+KW  - INDICATORS
+AB  - Waste management in low-income countries faces challenges with an average cost of $35/ton approximately 51% collection efficiency. Despite investments in treatment, processing, and recycling, the system remains unsustainable owing to poor planning and policies. The current analysis of Lahore's solid waste management (SWM) system, selected as a major city of a low-income country as a case study, focuses on collection efficiency and waste generation. However, it neglects the complex and dynamic nature of SWM systems. To capture the complexities and dynamic nature of the SWM system, system dynamic (SD) modeling is proposed for its effectiveness in modeling complex and dynamic systems. Unlike previous attempts at SD modeling that mostly consider only some components of the SWM system with varying success, this study attempts to use a holistic approach by considering all aspects of an integrated SWM system. In addition, this study explores different financial and management policies, highlighting the weaknesses of the system through a quantitative comparison of three scenarios: (1) business-as-usual (BAU) which considers the current trends in waste generation and practices of collection and disposal to landfill, (2) waste treatment system (WTS) in which various waste treatment systems are included to reduce burden on landfill, and (3) introduction of user fee with awareness campaigns (UFAC) which encourages community participation towards reduction in waste generation and financially supports the SWM. All three scenarios use four indices: waste generation, waste ending up in landfill, uncollected waste, and annual budget deficit as performance indices. These scenarios were simulated over a 25-year period using an SD model, covering all six components of the SWM system. The BAU scenario shows a 16% increase in waste generation, a 173% increase in landfill waste, an 11% reduction in uncollected waste, and a 64% increase in the budget deficit over the simulation period, indicating an unsustainable SWM system. The WTS scenario exhibits a 16% increase in waste generation, a 155% increase in landfill waste, an 11% reduction in uncollected waste, and a 61% increase in the budget deficit, showing a significant reduction in landfill waste and a slight reduction in deficit but it remains unsustainable. The UFAC scenario, however, results in a 40% reduction in waste generation, a 67% decrease in uncollected waste, an 8% decrease in landfill waste, and a 59% decrease in the budget deficit. These results demonstrate that instituting user fees for SWM services and incentivizing community participation towards waste reduction and segregation can make the SWM system of Lahore sustainable. This SD model provides insights for policymakers, aiding what-if analyses and long/short-term waste management plans for metropolitan cities in low-income countries. To validate the sustainability judgments based on performance indices, the analytical hierarchy process (AHP), a multi-criteria decision analysis (MCDA) tool commonly used for ranking policy decisions based on competing criteria, was employed. It considered the same four criteria as in the SD model. The results of the AHP analysis aligned with those of the SD model, ranking the UFAC scenario as the most sustainable option.
+AD  - Univ Engn & Technol, Inst Environm Engn & Res, Lahore, PakistanC3  - University of Engineering & Technology LahorePU  - SPRINGER HEIDELBERG
+PI  - HEIDELBERG
+PA  - TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN  - 0944-1344
+SN  - 1614-7499
+J9  - ENVIRON SCI POLLUT R
+JI  - Environ. Sci. Pollut. Res.
+DA  - JAN
+PY  - 2024
+VL  - 31
+IS  - 5
+SP  - 6992
+EP  - 7007
+DO  - 10.1007/s11356-023-31534-0
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001151563300006
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  38
+ER  -
+
+TY  - JOUR
+AU  - Han, TF
+AU  - Zhang, CT
+AU  - Sun, Y
+AU  - Hu, XM
+TI  - Study on environment-economy-society relationship model of Liaohe River Basin based on multi-agent simulation
+T2  - ECOLOGICAL MODELLING
+LA  - English
+KW  - Sustainable development
+KW  - Liaohe River Basin
+KW  - System dynamics
+KW  - Multi-agent simulation
+KW  - SYSTEM DYNAMICS
+KW  - SUSTAINABILITY
+KW  - FRAMEWORK
+AB  - Based on sustainable development theory and the method of system dynamics and multi-agent simulation, the environment-economy-society relationship model of Liaohe River Basin is constructed by coupling the system dynamics model with the multi-agent model in the software-NetLogo. This paper selects the Qinghe, Fanhe and Puhe River of Liaohe River Basin which are located in Shenyang and Tieling City as the study boundary, then the overall situation of environment, economy and society development is analyzed. At the same time, in order to simulate and predict the overall operation of the model under different policies, three kinds of development scenarios are established by changing some key variables including pollution abatement investment, fixed assets investment and industrial waste water production of ten thousand yuan industrial output value. The results show that the development under different policies can be simulated and predicted by this model, which will provide support for macroeconomic regulation and control the sustainable development strategy of Liaohe River Basin. (C) 2017 Elsevier B.V. All rights reserved.
+AD  - Northeastern Univ, Sch Resources & Civil Engn, 3-11 Wenhua Rd, Shenyang 110819, Liaoning, Peoples R ChinaC3  - Northeastern University - ChinaPU  - ELSEVIER
+PI  - AMSTERDAM
+PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN  - 0304-3800
+SN  - 1872-7026
+J9  - ECOL MODEL
+JI  - Ecol. Model.
+DA  - SEP 10
+PY  - 2017
+VL  - 359
+SP  - 135
+EP  - 145
+DO  - 10.1016/j.ecolmodel.2017.02.016
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000409287500011
+N1  - Times Cited in Web of Science Core Collection:  20
+Total Times Cited:  21
+Cited Reference Count:  23
+ER  -
+
+TY  - CPAPER
+AU  - Görgün, E
+AU  - Adsal, KA
+AU  - Misir, A
+AU  - Aydin, EV
+AU  - Ergün, ÇE
+AU  - Keskin, N
+AU  - Acar, A
+AU  - Ergenekon, S
+ED  - Demir, A
+ED  - Bilgili, MS
+TI  - Deposit Refund System for Beverage Containers as a Best Practice Example for Recycling Maximization
+T2  - 5TH EURASIAN WASTE MANAGEMENT SYMPOSIUM, EWMS 2020
+LA  - English
+CP  - 5th Eurasian Waste Management Symposium (EWMS)
+KW  - Beverage Containers
+KW  - Circular Economy
+KW  - Deposit Refund System
+KW  - Packaging Waste Management
+KW  - Public-Private Partnership
+KW  - Zero Waste
+AB  - The human consumption behavior is the main parameter for the environmental pollution. Especially now in today's globalized world, using fast moving consumer goods has become more widespread, eventually resulting in a significant increase in the waste generation. This increase is ominously caused by the packaging wastes especially with its implicit economic value.
+   The materials used in packaging industry are plastics, metal, glass, paper, wood and composites. The food and beverage packaging, which commonly uses plastic, metal, glass and composite materials has a market share amounting to approximately 70% in the overall packaging sector [1]. In 2018, 1,167.5 billion liters of packaged beverages were consumed worldwide [2].
+   With the above in mind, the packaging waste also has a detrimental impact to the pollution of the ecosystem unless they are not managed properly. Many countries try to solve this problem by collecting beverage packaging before they get mixed with other wastes and send the beverage packaging to recycling facilities. In Europe, 74% of glass, 80% of metal and 42% of plastic was recycled in 2016 and 2017 [1] [3]. However, these percentages are not enough to prevent pollution and ensure sustainability. According to Lebreton et al., each year 1.15 to 2.41 million tons of plastic waste streams from rivers to oceans [4].
+   There are several experimented options to solve this problem without causing a loss in the value of the relevant packaging material. In order to reproduce a packaging material, in the exact same form and quality with the materials produced from the raw material, the quality and status of the used material becomes rather important. Therefore, a specific method, among others, becomes prominent for the recollection of the used beverage packaging, before these become wasted and contaminated. This system is called "Deposit Refund System (DRS)". In the DRS, each beverage packaging shall have a certain deposit value and with each purchase the consumer shall pay that deposit value in addition to the product price.
+   After the consumption of the beverage, the consumer returns the empty packaging and the deposit value is refunded to the consumer. This system leads the way to clean and effective collection of recyclable beverage packaging. Around the world, 45 countries are currently using the DRS and in average 88% of their beverage packaging are recycled via this system [5].
+   The DRS is a very complex system that concerns too many stakeholders. The success of the system depends on a clear structuring and outlining of the relationships, duties, authorities and responsibilities of each partaker. Accordingly, the legal framework shall set forth a comprehensive framework, in order to regulate all procedures and principles relating to the DRS.
+   The main outcome of the study will be to determine the advantages of implementing the DRS in Turkey, for beverage packaging waste management. In addition, we will also analyze the governance models of DRS, where the DRS is run by an Operator. In most of the countries, this operator is generally a non-profit organization, established by beverage producers and retailers. In this study, we will also examine the alternative governance models, such as state owned and Public-Private Partnership (PPP) models. We have also focused on the PPP model, as an innovative and efficient tool and a suitable model for the performance of DRS system. We will further elaborate on the financial sustainability of the PPP projects and how to create "bankable projects". As an innovative model for the DRS, we created a well-structured finance model with resilience revenue stream in the PPP option for long-term public services. Accordingly, these should be taken into consideration during the establishment and the implementation of the DRS design.
+   The DRS comprises of several operational steps, which are the collection of empty containers from consumers through reverse vending machines (RVMs) or manual return points, the transfer to scoring and bailing facilities. The DRS Operator shall be responsible for these operational processes. The countries who apply the DRS are relatively smaller than Turkey, by surface area and population. This difference creates a need for designing a DRS, based specifically on Turkey's needs and properties. For this purpose, relevant studies, sectoral and governmental reports about the DRS and Turkish packaging waste management system was researched and suggestions based on technical structure, governance model and legal background will be given as an output of the study. On the other hand, a very well-designed database operating software is necessary to measure all processes in the system and to combat counterfeiting and fraud.
+   Another impressive impact of the DRS is that it is the proper and easiest way to adopt circular economy concept for communities, industries, and governments. Since one of the main purposes of circular economy is usage of waste material (such as packaging waste) as a raw material in different production fields, the implementation of the DRS would achieve this aim by definition. Segregated collection of wastes becomes a very important issue for the reproduction of new products from recycled materials. Such collection method is also significantly important for resource preservation, which is another crucial matter in circular economy. For an effective production process, the packaging waste is required to be clean and without any contamination. The DRS is one of the best implementation mechanisms for separate collection of packaging waste. European Commission has been working on circular economy and they submitted the New Circular Economy Action Plan in March 2020 [6]. This new plan aims to design entire life cycle of products while promoting circular economy processes, fostering sustainable consumption and aiming to keep resources available as much as possible in EU's economy.
+   Lastly, we will also be considering and examining other environmental benefits of the DRS in Turkey.
+AD  - Istanbul Tech Univ, Dept Environm Engn, TR-34469 Istanbul, TurkiyeAD  - Io Environm Solut R&D Co, Katar Cd Ari Teknokent 1 2-5 D 12, TR-34469 Istanbul, TurkiyeAD  - Istanbul PPPCOE, Iskele Arkasi Sok 9 1, Istanbul, TurkiyeAD  - Ergun Cevre, Mahall Ankara E63, Ankara, TurkiyeAD  - TUCEM Cevre Egitimi & Atik Yonetimi Dernegi, Findikli Mah Basibuyuk Yolu Cad 161-1, Istanbul, TurkiyeAD  - Ergenekon Consulting, Evinpk Residence A3-5, Istanbul, TurkiyeC3  - Istanbul Technical UniversityFU  - Ministry of Environment and Urbanization
+FX  - We would like to extend our sincere gratitude to the Ministry of Environment and Urbanization for the development of the Deposit Refund System Project (TUDIS) in Turkey.
+PU  - Mehmet Sinan Bilgili
+PI  - Esenler/Istanbul
+PA  - Yildiz Technical University, Environmental Engineering Department, Esenler/Istanbul, Turkiye
+SN  - 978-625-409-001-1
+PY  - 2020
+SP  - 564
+EP  - 571
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:001254390200087
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  12
+ER  -
+
+TY  - JOUR
+AU  - Batouli, M
+AU  - Mostafavi, A
+AU  - Chowdhury, AG
+TI  - DyNet-LCCA: a simulation framework for dynamic network-level life- cycle cost analysis in evolving infrastructure systems
+T2  - SUSTAINABLE AND RESILIENT INFRASTRUCTURE
+LA  - English
+KW  - Infrastructure systems
+KW  - life cycle cost analysis
+KW  - simulation
+KW  - complex adaptive systems
+KW  - sustainable infrastructure
+KW  - SUSTAINABILITY ASSESSMENT
+KW  - OPTIMIZATION
+KW  - DETERIORATION
+KW  - UNCERTAINTY
+KW  - RELIABILITY
+KW  - MODEL
+KW  - LCA
+AB  - Civil infrastructure systems transform over the long-term due to complex interactions among socio-environmental stressors, degradation of physical networks, and decision-making processes of infrastructure agencies. To incorporate such complex transformation mechanisms into infrastructure cost management, this study integrates simulation modeling and life-cycle cost analysis (LCCA) to create a framework for dynamic network-level LCCA in infrastructure systems. The proposed framework was implemented using a multi-agent simulation model in a numerical case study related to a road network affected by sea-level rise, population growth, and uncertain maintenance funding. The results include identification of several state transition, and tipping point behaviors at which small changes in service demand, maintenance budget, and adaptation investment may result in significant improvement in network cost and performance conditions. The results show the capability of the proposed framework in modeling the long-term trajectories of life-cycle costs at the network level under different stressors and decision scenarios.
+AD  - Citadel, Dept Civil & Environm Engn, Charleston, SC 29409 USAAD  - Texas A&M Univ, Zachry Dept Civil Engn, College Stn, TX USAAD  - Florida Int Univ, Dept Civil & Environm Engn, Miami, FL 33199 USAC3  - Citadel Military College South CarolinaC3  - Texas A&M University SystemC3  - Texas A&M University College StationC3  - State University System of FloridaC3  - Florida International UniversityPU  - TAYLOR & FRANCIS LTD
+PI  - ABINGDON
+PA  - 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN  - 2378-9689
+SN  - 2378-9697
+J9  - SUSTAIN RESIL INFRAS
+JI  - Sustain. Resil. Infrastruct.
+DA  - MAR 4
+PY  - 2022
+VL  - 7
+IS  - 2
+SP  - 112
+EP  - 129
+DO  - 10.1080/23789689.2019.1710071
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000823079500003
+N1  - Times Cited in Web of Science Core Collection:  4
+Total Times Cited:  4
+Cited Reference Count:  38
+ER  -
+
+TY  - CPAPER
+AU  - Batouli, M
+AU  - Mostafavi, A
+ED  - Chong, O
+ED  - Parrish, K
+ED  - Tang, P
+ED  - Grau, D
+ED  - Chang, J
+TI  - Simulation Framework for Sustainability Assessment in Evolving Socio-Technical Infrastructure Systems
+T2  - ICSDEC 2016 - INTEGRATING DATA SCIENCE, CONSTRUCTION AND SUSTAINABILITY
+LA  - English
+CP  - International Conference on Sustainable Design, Engineering and Construction (ICSDEC)
+KW  - Sustainability assessment
+KW  - Infrastructure Systems
+KW  - Agent based Simulation
+AB  - Sustainability of infrastructure systems involves multiple interrelated objectives which are dependent on the dynamic behaviors of stakeholders, interdependencies between infrastructure assets, and evolving conditions in the social and environmental systems. This research contributes to the body of knowledge by creating a framework that integrates: (1) different dimensions of sustainability in infrastructure networks, and (2) dynamic changes in the behaviors of stakeholders, asset performance conditions, and the social and environmental conditions. The proposed framework includes an agent based simulation model to capture the dynamic behaviors of decision makers and the evolving performance of infrastructure assets under different socio-environmental conditions. The outcomes of the simulation model include the short-and long-term costs and environmental impacts of infrastructure networks under different scenarios related to the changes in the socio-environmental conditions. The application of the framework is shown in a numerical case study of a road network. The results include: (i) identification of infrastructure management strategies (e.g., maintenance planning and funding allocation) that optimize the tradeoff between annual cost and environmental impacts of the network; and (ii) discovering robust management strategies that lead to highly-likely desired sustainability outcomes across different uncertain scenarios related to the future socio-environmental conditions. The results show the capability of the proposed framework for sustainability assessment of infrastructure systems based on integrated analysis of the dynamic behaviors of decision-makers, infrastructure characteristics, and evolving socio-environmental conditions. Hence, it provides a predictive quantitative tool to inform decision-making and policy formulation toward improving the sustainability of infrastructure networks. (C) 2016 The Authors. Published by Elsevier
+AD  - Florida Int Univ, Dept Civil & Environm Engn, Miami, FL 33199 USAAD  - Florida Int Univ, OHL Sch Construct, Miami, FL 33199 USAC3  - State University System of FloridaC3  - Florida International UniversityC3  - State University System of FloridaC3  - Florida International UniversityPU  - ELSEVIER SCIENCE BV
+PI  - AMSTERDAM
+PA  - SARA BURGERHARTSTRAAT 25, PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN  - 1877-7058
+J9  - PROCEDIA ENGINEER
+PY  - 2016
+VL  - 145
+SP  - 34
+EP  - 41
+DO  - 10.1016/j.proeng.2016.04.006
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000387531600004
+N1  - Times Cited in Web of Science Core Collection:  9
+Total Times Cited:  10
+Cited Reference Count:  10
+ER  -
+
+TY  - JOUR
+AU  - Rashedi, R
+AU  - Hegazy, T
+TI  - Strategic policy analysis for infrastructure rehabilitation using system dynamics
+T2  - STRUCTURE AND INFRASTRUCTURE ENGINEERING
+LA  - English
+KW  - strategic infrastructure management
+KW  - life cycle cost
+KW  - sustainability
+KW  - system dynamics
+KW  - infrastructure backlog
+KW  - public-private partnerships
+KW  - AGENT-BASED SIMULATION
+KW  - SUSTAINABILITY APPRAISAL
+KW  - PROJECTS SUSAIP
+KW  - MANAGEMENT
+AB  - Recent requirements for sustainable development and increasing trend for public-private partnerships (PPPs) have added additional complexities to the policy-making process in the infrastructure management domain. To support policy analysis, this paper presents a system dynamics (SD) model to analyse the impact of different strategic policies (e.g. budgeting, PPP involvement) on infrastructure serviceability, backlog accumulation and sustainability. The proposed model has been implemented on a network of school buildings from the Toronto District School Board asset inventory. Four sets of experiments with different policy scenarios over a 50-year strategic planning horizon have been conducted to investigate policies related to rehabilitation, budget distribution, government investment and PPP involvement. The proposed model was implemented on a commercial SD software incorporating all the dynamic interactions among the strategic parameters. The experiment results show that the model works as a practical decision support tool that enables asset managers to test the effectiveness of various strategic policy scenarios on long-term infrastructure performance.
+AD  - Univ Waterloo, Dept Civil & Environm Engn, Waterloo, ON N2L 3G1, CanadaC3  - University of WaterlooPU  - TAYLOR & FRANCIS LTD
+PI  - ABINGDON
+PA  - 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN  - 1573-2479
+SN  - 1744-8980
+J9  - STRUCT INFRASTRUCT E
+JI  - Struct. Infrastruct. Eng.
+DA  - JUN 2
+PY  - 2016
+VL  - 12
+IS  - 6
+SP  - 667
+EP  - 681
+DO  - 10.1080/15732479.2015.1038723
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000372024300001
+N1  - Times Cited in Web of Science Core Collection:  9
+Total Times Cited:  11
+Cited Reference Count:  35
+ER  -
+
+TY  - JOUR
+AU  - Richter, MA
+AU  - Hagenmaier, M
+AU  - Bandte, O
+AU  - Parida, V
+AU  - Wincent, J
+TI  - Smart cities, urban mobility and autonomous vehicles: How different cities needs different sustainable investment strategies
+T2  - TECHNOLOGICAL FORECASTING AND SOCIAL CHANGE
+LA  - English
+KW  - Smart city
+KW  - Urban mobility
+KW  - Autonomous vehicles
+KW  - Sustainability
+KW  - Traffic simulation
+KW  - AGENT-BASED SIMULATION
+KW  - AUTOMATED VEHICLES
+KW  - SHARED MOBILITY
+KW  - CITY
+KW  - FUTURE
+KW  - IMPACT
+KW  - SYSTEM
+KW  - PREFERENCES
+KW  - TECHNOLOGY
+KW  - CONGESTION
+AB  - The Smart city is important for sustainability. Governments engaged in developing urban mobility in the smart city need to invest their limited financial resources wisely to realize sustainability goals. A key area for such sustainability investment is how to implement and invest in emerging technologies for urban mobility solutions. However, current frameworks on how to understand the impact of emerging technologies aligned with long-term sustainability strategies are understudied. This article develops a simulation-based comparison between different cities and autonomous vehicle (AV) adoption scenarios to understand which aspects of cities lead to positive AV implementation outcomes. As urban mobility and cities will become smart, the analysis represents a first attempt to explore the impact of AVs on a large scale across different cities around the world. Archetypes are formed and account for most, if not all, world cities. For three of our archetypes (car-centric giants, prosperous innovation centers, and high-density megacities), promoting AV-shuttle use would deliver the greatest advantage as measured by improvements in the model's KPIs. To develop urban powerhouses, however, micromobility would deliver greater benefits. For highly compact middleweights, a shift from private cars to other non-AV modes of transportation would be the smartest choice.
+AD  - Univ St Gallen, Inst Mobil, Bahnhofstr 8, CH-9000 St Gallen, SwitzerlandAD  - Boston Consulting Grp GmbH, BCGs Vienna Off, Hof 8, A-1010 Vienna, AustriaAD  - Boston Consulting Grp Inc, BCGs Boston Off, 200 Pier Four Blvd, Boston, MA 02210 USAAD  - Lulea Univ Technol, Entrepreneurship & Innovat, S-97187 Lulea, SwedenAD  - Univ Vaasa, Finland Univ South Eastern Norway, Sch Management, USN Business Sch, Vaasa, NorwayAD  - Univ St Gallen, Global Ctr Entrepreneurship & Innovat, Dufourstr 40a, CH-9000 St Gallen, SwitzerlandAD  - Hanken Sch Econ, Arkadiankatu 22, Helsinki 00100, FinlandC3  - University of St GallenC3  - Boston Consulting Group (BCG)C3  - Boston Consulting Group (BCG)C3  - Lulea University of TechnologyC3  - University of St GallenC3  - Hanken School of EconomicsPU  - ELSEVIER SCIENCE INC
+PI  - NEW YORK
+PA  - STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN  - 0040-1625
+SN  - 1873-5509
+J9  - TECHNOL FORECAST SOC
+JI  - Technol. Forecast. Soc. Chang.
+DA  - NOV
+PY  - 2022
+VL  - 184
+C7  - 121857
+DO  - 10.1016/j.techfore.2022.121857
+C6  - AUG 2022
+WE  - Social Science Citation Index (SSCI)AN  - WOS:000861382600007
+N1  - Times Cited in Web of Science Core Collection:  53
+Total Times Cited:  54
+Cited Reference Count:  121
+ER  -
+
+TY  - JOUR
+AU  - Chen, OT
+AU  - Mustafee, N
+AU  - Evans, B
+AU  - Khoury, M
+AU  - Vamvakeridou-Lyroudia, L
+AU  - Chen, AS
+AU  - Djordjevic, S
+AU  - Savic, D
+TI  - New business models for the circular economy of water: A hybrid simulation study of a mobile rental wastewater treatment service
+T2  - JOURNAL OF CLEANER PRODUCTION
+LA  - English
+KW  - Circular economy
+KW  - Hybrid modelling and simulation
+KW  - Multiple criteria decision analysis
+KW  - Discrete-event simulation
+KW  - Agent-based simulation
+KW  - System Dynamics
+KW  - INDUSTRIAL SYMBIOSIS
+KW  - RECOVERY
+AB  - Food processing industries confront challenges in dealing with wastewater due to seasonal fluctuations. This can lead to potentially untreated wastewater discharge and regulatory non-compliance. Untreated water can also adversely affect the efficiency of municipal wastewater treatment and the local environment. A mobile rental wastewater treatment service for the food processing industry has been proposed as an innovative solution, simultaneously promoting the Circular Economy through water reuse and material recovery. It enables on- demand and on-site wastewater processing, particularly during peak operation. Moreover, it provides additional services for extracting value-added compounds (e.g., polyphenols), delivering further financial benefits. To assess the sustainability of this new business model, this paper presents a hybrid simulation study using agent- based, discrete-event simulation, system dynamics, and Multiple Criteria Decision Analysis. The hybrid model is applied to a new mobile wastewater service being trialled in the Peloponnesian region of Greece. By considering factors such as customer composition and the volume of wastewater to be treated, logistics (mobile units and hubs), and staggered investments in capacity boosting, the model supports the commercialisation efforts of the rental business model put forward in the case study. The paper contributes to modelling methodology, especially in the use of hybrid simulation within the context of the circular economy of water; it also contributes to the practice of modelling and simulation by exploring their role in assessing the feasibility of novel business models.
+AD  - Univ Exeter, Ctr Water Syst, Harrison Bldg,North Pk Rd, Exeter EX4 4QF, EnglandAD  - Univ Exeter, Ctr Simulat Analyt & Modelling, Business Sch, Exeter EX4 4ST, EnglandAD  - KWR Water Res Inst, Groningenhaven 7,POB 1072, NL-3430 BB Nieuwegein, NetherlandsC3  - University of ExeterC3  - University of ExeterFU  - Ongoing EC Horizon 2020 ULTIMATE project [GA 869318];  [869318]
+FX  - The study is part of and funded by the ongoing EC Horizon 2020 ULTIMATE project (GA 869318) , which aims to demonstrate circular economy solutions for the whole value chain and to strengthen synergies between industries and water utilities. We acknowledge the contribution of the lead project partner, Greener than Green Technologies, as well as Dimitri Iossifidis, Christoforos Christophoridis, and Myrto Touloupi of the company for the case study, who developed the innovative mobile WWTP service and provided us with data and suggested scenarios for experimentation.
+PU  - ELSEVIER SCI LTD
+PI  - London
+PA  - 125 London Wall, London, ENGLAND
+SN  - 0959-6526
+SN  - 1879-1786
+J9  - J CLEAN PROD
+JI  - J. Clean Prod.
+DA  - MAR 1
+PY  - 2025
+VL  - 495
+C7  - 145041
+DO  - 10.1016/j.jclepro.2025.145041
+C6  - FEB 2025
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001431512600001
+N1  - Times Cited in Web of Science Core Collection:  2
+Total Times Cited:  2
+Cited Reference Count:  38
+ER  -
+
+TY  - JOUR
+AU  - Schwab, L
+AU  - Gold, S
+AU  - Reiner, G
+TI  - Exploring financial sustainability of SMEs during periods of production growth: A simulation study
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+LA  - English
+KW  - Business growth management
+KW  - Decision-making
+KW  - Sustainability
+KW  - Agent-based simulation
+KW  - System-dynamics
+KW  - SUPPLY CHAIN
+KW  - BUSINESS FAILURE
+KW  - TRADE CREDIT
+KW  - MANAGEMENT
+KW  - DECISION
+KW  - MODEL
+KW  - RISK
+KW  - PERFORMANCE
+KW  - BANKRUPTCY
+KW  - STRATEGY
+AB  - The purpose of this paper is to understand the impact of financial key performance indicators (KPIs) namely customer accounts receivable flow time and credit limit allowed by financial partners-on the financial sustainability of small and medium sized enterprises (SMEs) during business growth trajectories from an operations management perspective. This study explores the impact of a financing scheme on company performance during business growth, since new banking constraints for credit risk reduction have been introduced (such as BASEL III regulations). Based on qualitative and quantitative data from a longitudinal empirical case study of a Swiss family-owned SME during a phase of intense growth, we have built a simulation model by combining agent based with system dynamics modelling that comprehensively represents the growing firm, its decision-making, and enables the impact evaluation of relevant financial KPIs on financial sustainability. Our analysis shows that the baseline scenario entails 80% risk of bankruptcy for high-growth SMEs; featuring 30 days customer accounts receivable flow time target and a credit limit allowed by the financial partner of 25% of last period turnover. However, if customer accounts receivable flow time is reduced to ten days, and credit limit increased to 65% of last turnover, the risk of bankruptcy drops to 30%. Our findings point to the detrimental unanticipated side effects of macro-level banking regulation on micro-level firm performance, and hence have implications for policy-making. Moreover, our study guides managers and financial service providers in anticipating risky situations, and in taking corrective actions by effectively managing financial KPIs.
+AD  - Univ Neuchatel, Prod & Logist Management, Neuchatel, SwitzerlandAD  - Univ Kassel, Fac Econ & Management, Kassel, GermanyAD  - Vienna Univ Econ & Business, Dept Informat Syst & Operat, Vienna, AustriaC3  - University of NeuchatelC3  - Universitat KasselC3  - Vienna University of Economics & BusinessPU  - ELSEVIER SCIENCE BV
+PI  - AMSTERDAM
+PA  - PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN  - 0925-5273
+SN  - 1873-7579
+J9  - INT J PROD ECON
+JI  - Int. J. Prod. Econ.
+DA  - JUN
+PY  - 2019
+VL  - 212
+SP  - 8
+EP  - 18
+DO  - 10.1016/j.ijpe.2018.12.023
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000470193000002
+N1  - Times Cited in Web of Science Core Collection:  56
+Total Times Cited:  62
+Cited Reference Count:  62
+ER  -
+
