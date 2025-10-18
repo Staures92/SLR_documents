@@ -1,5 +1,5 @@
 # Paper Title:
-Agent-based modelling in sustainable Finance: A systematic literature review
+Agent-based Modelling in Sustainable Finance: A Systematic Review of the Literature
 
 - Authors: Megang Nkamga Junile Staures, Audrius Kabasinskas
 
@@ -17,7 +17,7 @@ This repository contains the complete data (raw search results from databases, s
 
 - RQ1: What are the main application areas and sustainability dimensions most commonly modeled in sustainable finance using ABM, and how are these distributed across the EU taxonomy categories?
 - RQ2: What modeling approaches do these ABM studies employ (agent designs, interaction mechanisms, and validation methods)?
-- RQ3: What are the current limitations and the most promising avenues for future ABM research in sustainable finance?
+- RQ3: What are the current limitations and research gaps in ABM research for sustainable finance?
 
 ## Review Methodology
 
@@ -39,5 +39,6 @@ python -m venv venv; on Windows: venv\Scripts\activate;  on Mac/Linux: source ve
 
 ## Usage
 To run the code, please make sure that you have the necessary Python libraries installed. Please take a look at the requirements.txt file for dependencies.
+
 
 
