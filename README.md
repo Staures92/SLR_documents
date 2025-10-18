@@ -3,9 +3,9 @@ Agent-based Modelling in Sustainable Finance: A Systematic Review of the Literat
 
 - Authors: Megang Nkamga Junile Staures, Audrius Kabasinskas
 
-- Journal: Journal of Cleaner Production
+- Journal: Journal of Computational Economics
 
-- Submission Date: 
+- Submission Date: 18/10/2025
 
 ## Abstract
 This repository presents a comprehensive systematic review of agent-based modeling (ABM) applications in sustainable finance (SF). Our analysis reveals a critical validation gap, with 93% of studies relying on single validation methods, which undermines model credibility for policy applications. Additionally, we identify poor regulatory alignment, finding that 49% of studies remain unclassified relative to EU taxonomy categories, indicating a significant disconnect from current regulatory frameworks.
@@ -39,6 +39,7 @@ python -m venv venv; on Windows: venv\Scripts\activate;  on Mac/Linux: source ve
 
 ## Usage
 To run the code, please make sure that you have the necessary Python libraries installed. Please take a look at the requirements.txt file for dependencies.
+
 
 
 
